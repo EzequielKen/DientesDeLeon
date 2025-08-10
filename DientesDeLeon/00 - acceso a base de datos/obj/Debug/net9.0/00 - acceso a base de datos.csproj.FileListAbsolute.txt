@@ -1,0 +1,12 @@
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\bin\Debug\net9.0\00 - acceso a base de datos.deps.json
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\bin\Debug\net9.0\00 - acceso a base de datos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\bin\Debug\net9.0\00 - acceso a base de datos.pdb
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.csproj.AssemblyReference.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.AssemblyInfoInputs.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.AssemblyInfo.cs
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.csproj.CoreCompileInputs.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\refint\00 - acceso a base de datos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\00 - acceso a base de datos.pdb
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\00 - acceso a base de datos\obj\Debug\net9.0\ref\00 - acceso a base de datos.dll

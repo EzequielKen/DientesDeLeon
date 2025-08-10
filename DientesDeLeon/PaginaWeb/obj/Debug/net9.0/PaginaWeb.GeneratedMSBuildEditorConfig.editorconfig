@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PaginaWeb
+build_property.RootNamespace = PaginaWeb
+build_property.ProjectDir = C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Acerca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Banner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYW5uZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Caracteristicas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJhY3RlcmlzdGljYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/DatosCuriosos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRvc0N1cmlvc29zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Eligenos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbGlnZW5vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Equipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcXVpcG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Noticias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpY2lhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Precios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVjaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Proceso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9jZXNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Servicios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Subscripcion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJzY3JpcGNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Testimonios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0aW1vbmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Home/Video.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWRlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Landing/LandingAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xMYW5kaW5nQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Paciente/CrearPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcQ3JlYXJQYWNpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Shared/_SistemaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaXN0ZW1hTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eze-k/OneDrive/Escritorio/Dientes De Leon/DientesDeLeon/DientesDeLeon/PaginaWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q10zqlbvhp
