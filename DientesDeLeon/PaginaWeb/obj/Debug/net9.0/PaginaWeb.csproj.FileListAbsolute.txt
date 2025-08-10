@@ -276,3 +276,4 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\P
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\rt8inuorwv-xv0rkdccbl.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\2m0upb8sys-euql4376kz.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\ci5huw1qop-fgjp9cpxrt.gz
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\PaginaWeb.sourcelink.json

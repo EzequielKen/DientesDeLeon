@@ -13,3 +13,4 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\0
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Debug\net9.0\refint\01 - modulos.dll
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Debug\net9.0\01 - modulos.pdb
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Debug\net9.0\ref\01 - modulos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Debug\net9.0\01 - modulos.sourcelink.json

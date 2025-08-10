@@ -1,13 +1,17 @@
 ﻿using _02___sistemas;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PaginaWeb.Models;
+using PaginaWeb.Servicios._01___Paciente;
+using System.Data;
 
 namespace PaginaWeb.Controllers._01___Paciente
 {
     public class PacienteController : Controller
     {
         // GET: PacienteController
+        [Authorize(Roles = "admin")]
         public ActionResult CrearPaciente(PacienteViewModel PacienteNuevo)
         {
             cls_Twilio twilio = new cls_Twilio();
@@ -18,73 +22,50 @@ namespace PaginaWeb.Controllers._01___Paciente
             return View("CrearPaciente",PacienteNuevo);
         }
 
-        // GET: PacienteController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: PacienteController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: PacienteController/Create
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<ActionResult> CrearPacienteNuevo(PacienteViewModel PacienteNuevo)
         {
-            try
+            // 1. Validación básica
+            if (!ModelState.IsValid)
             {
-                return RedirectToAction(nameof(Index));
+                // recarga listas antes de volver a la vista
+                return RedirectToAction("CrearPaciente", PacienteNuevo);
             }
-            catch
+
+            // Aquí llamamos al servicio para crear el negocio
+            CrearPacienteServicio servicio = new CrearPacienteServicio();
+            // Verificamos el número de teléfono en formato E.164
+            bool verificado = servicio.verificarNumeroE164(PacienteNuevo.CodigoPais, PacienteNuevo.CodigoArea, PacienteNuevo.Telefono);
+            // servicio.Crear(negocioNuevo); // Lógica de creación del negocio
+            // Redirigir a la lista de negocios o mostrar un mensaje de éxito
+
+            var resultado = await servicio.CrearPaciente(PacienteNuevo);
+            if (!resultado.resultado)
             {
-                return View();
+                // Si hubo un error, redirigimos a la vista de creación con el mensaje de error
+                ModelState.AddModelError("", resultado.mensaje);
+                return RedirectToAction("CrearPaciente", PacienteNuevo);
             }
+            return RedirectToAction("LandingAdmin", "Landing");
         }
 
-        // GET: PacienteController/Edit/5
-        public ActionResult Edit(int id)
+        [Authorize(Roles = "admin")]
+        [HttpGet]
+        public async Task<ActionResult> ListaPacientes()
         {
-            return View();
+            DataTable pacientes = new DataTable();
+            ListarPacienteServicio listarPacientesServicio = new ListarPacienteServicio();
+            pacientes = await listarPacientesServicio.ObtenerTodosPacientes();
+            return View(pacientes);
         }
 
-        // POST: PacienteController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        [HttpGet]
+        public async Task<ActionResult> BuscarPacientes(string buscar)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            ListarPacienteServicio listarPacientesServicio = new ListarPacienteServicio();
+            DataTable pacientes = await listarPacientesServicio.ObtenerPaciente(buscar);
+            return View("ListaPacientes",pacientes);
         }
 
-        // GET: PacienteController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: PacienteController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
     }
 }

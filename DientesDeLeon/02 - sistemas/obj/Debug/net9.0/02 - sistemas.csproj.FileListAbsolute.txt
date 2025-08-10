@@ -34,3 +34,4 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\0
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Debug\net9.0\refint\02 - sistemas.dll
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Debug\net9.0\02 - sistemas.pdb
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Debug\net9.0\ref\02 - sistemas.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Debug\net9.0\02 - sistemas.sourcelink.json

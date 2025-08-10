@@ -56,10 +56,11 @@
                 </div>
                 <div class="col-md-8 mb-3">
                     <label asp-for="Telefono" class="form-label"></label>
-                    <input asp-for="Telefono" class="form-control" placeholder="Ej: 12345678" />
+                    <input asp-for="Telefono" type="number" class="form-control" placeholder="Ej: 12345678" />
                     <span asp-validation-for="Telefono" class="text-danger"></span>
                 </div>
             </div>
        </div>
+        <button asp-controller="Paciente" asp-action="CrearPacienteNuevo" type="submit" class="btn btn-primary">Crear Paciente</button>
     </form>
 </div>
