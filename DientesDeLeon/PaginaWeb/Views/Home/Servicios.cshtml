@@ -1,4 +1,5 @@
-﻿<!-- service-section -->
+﻿@model System.Data.DataTable
+<!-- service-section -->
 <section class="service-section sec-pad">
     <div class="auto-container">
         <div class="sec-title mb_50 centred">
@@ -6,171 +7,24 @@
             <h2>Radiografías Dentales sin turno<br />en Moreno</h2>
         </div>
         <div class="row clearfix">
-            <!-- Servicio 1 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-1.jpg" alt="Panorámica"></a></figure>
-                            <div class="icon-box"><i class="icon-15"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Panorámica</a></h3>
-                            <p>$18.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 2 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="100ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-2.jpg" alt="Telerradiografía"></a></figure>
-                            <div class="icon-box"><i class="icon-16"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Telerradiografía</a></h3>
-                            <p>$18.000</p>
+            <!-- Servicio -->
+            @for (int fila = 0; fila <= Model.Rows.Count-1; fila++)
+            {
+                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                    <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="#"><img src="assets/images/service/service-3.jpg" alt="Estudios cefalométricos"></a></figure>
+                                <div class="icon-box"><i class="icon-17"></i></div>
+                            </div>
+                            <div class="lower-content">
+                                <h3><a href="#">@Model.Rows[fila]["Servicio"].ToString()</a></h3>
+                                <p>$@Model.Rows[fila]["Precio"].ToString()</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- Servicio 3 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-3.jpg" alt="Estudios cefalométricos"></a></figure>
-                            <div class="icon-box"><i class="icon-17"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Estudios cefalométricos</a></h3>
-                            <p>$18.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 4 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-1.jpg" alt="Fotos"></a></figure>
-                            <div class="icon-box"><i class="icon-15"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Fotos</a></h3>
-                            <p>$18.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 5 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-2.jpg" alt="ATM"></a></figure>
-                            <div class="icon-box"><i class="icon-16"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">ATM</a></h3>
-                            <p>$19.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 6 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="500ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-3.jpg" alt="Seriada ATM"></a></figure>
-                            <div class="icon-box"><i class="icon-17"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Seriada ATM</a></h3>
-                            <p>$40.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 7 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-1.jpg" alt="Periapical"></a></figure>
-                            <div class="icon-box"><i class="icon-15"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Periapical</a></h3>
-                            <p>$13.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 8 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="700ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-2.jpg" alt="Oclusales"></a></figure>
-                            <div class="icon-box"><i class="icon-16"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Oclusales</a></h3>
-                            <p>$18.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 9 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="800ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-3.jpg" alt="Seriada Periapical"></a></figure>
-                            <div class="icon-box"><i class="icon-17"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Seriada Periapical</a></h3>
-                            <p>$40.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 10 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="900ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-1.jpg" alt="Media Seriada"></a></figure>
-                            <div class="icon-box"><i class="icon-15"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Media Seriada</a></h3>
-                            <p>$24.000</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Servicio 11 -->
-            <div class="col-lg-4 col-md-6 col-sm-12 service-block">
-                <div class="service-block-one wow fadeInUp animated" data-wow-delay="1000ms" data-wow-duration="1500ms">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="#"><img src="assets/images/service/service-2.jpg" alt="Valor de impresión"></a></figure>
-                            <div class="icon-box"><i class="icon-16"></i></div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="#">Valor de Impresión</a></h3>
-                            <p>$2.000 (adicional opcional)</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            }
         </div>
     </div>
 </section>

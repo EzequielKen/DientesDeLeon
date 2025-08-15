@@ -1,0 +1,26 @@
+﻿@model ServicioViewModel
+@{
+    ViewData["Title"] = "Crear Servicio";
+    Layout = "_SistemaLayout";
+}
+
+<div class="container">
+    <form method="post">
+        <div class="alert alert-dark mb-4">
+            <h2>Informacion del Servicio</h2>
+            <p>Estos son los datos que se utilizaran para crear el servicio.</p>
+            <div class="mb-3">
+                <label asp-for="servicio" class="form-label"></label>
+                <input asp-for="servicio" class="form-control mb-3" placeholder="Nombre del Servicio" />
+                <span asp-validation-for="servicio" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="precio" class="form-label"></label>
+                <input asp-for="precio" type="number" class="form-control mb-3" placeholder="Precio del Servicio" />
+                <span asp-validation-for="precio" class="text-danger"></span>
+            </div>
+            <button asp-controller="Servicios" asp-action="CrearServicioNuevo" type="submit" class="btn btn-primary">Crear Servicio</button>
+
+        </div>
+    </form>
+</div>

@@ -130,7 +130,7 @@ namespace _01___modulos.MySQL
             string query = "SELECT * FROM " + base_de_datos + ".usuarios where usuario='" + usuario + "' and contraseña='" + contraseña + "' and activo=1";
             return await consultar_query(query);
         }
-        public async Task<DataTable> consultar_usuario_segun_mail_o_usuario(string mail,string usuario)
+        public async Task<DataTable> consultar_usuario_segun_mail_o_usuario(string mail, string usuario)
         {
             string query = "SELECT * FROM " + base_de_datos + ".usuarios where mail='" + mail + "' or usuario='" + usuario + "' and activo=1";
             return await consultar_query(query);
@@ -163,7 +163,36 @@ namespace _01___modulos.MySQL
         }
         #endregion
 
+        #region servicios
+        public async Task<DataTable> consultar_servicios_activos_de_consultorios(string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".servicios where id_Consultorio='" + id_Consultorio + "' and activo='1'";
+            return await consultar_query(query);
+        }
+        public async Task<DataTable> consultar_servicios_de_consultorios(string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".servicios where id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
+        public async Task<DataTable> consultar_servicio_de_consultorio(string servicio, string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".servicios where Servicio='" + servicio + "' and id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
+        public async Task<DataTable> consultar_servicio_por_id(string id)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".servicios where id='" + id + "'";
+            return await consultar_query(query);
+        }
+        #endregion
 
+        #region salas
+        public async Task<DataTable> consultar_sala_existente(string sala,string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".salas where Sala='"+sala+"' and id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
+        #endregion
         #endregion
     }
 }

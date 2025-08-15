@@ -1,0 +1,21 @@
+﻿@model SalaViewModel
+@{
+    ViewData["Title"] = "Crear Sala";
+    Layout = "_SistemaLayout";
+}
+<div class="container">
+    <form method="post">
+        <div class="alert alert-dark mb-4">
+            <h2>Informacion de la sala</h2>
+            <p>Las salas son los cuartos de tu consultorio donde brindas servicios.</p>
+            <p>recuerda que aqui simplemente creas la sala.</p>
+            <div class="mb-3">
+                <label asp-for="Sala" class="form-label"></label>
+                <input asp-for="Sala" class="form-control mb-3" placeholder="Nombre de la Sala" />
+                <span asp-validation-for="Sala" class="text-danger"></span>
+            </div>
+            <button asp-controller="Sala" asp-action="CrearSalaNueva" type="submit" class="btn btn-primary">Crear Servicio</button>
+
+        </div>
+    </form>
+</div>

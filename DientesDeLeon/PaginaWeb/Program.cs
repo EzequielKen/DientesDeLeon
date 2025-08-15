@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.SignalR;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +20,19 @@ builder.Services
 
 builder.Services.AddAuthorization();
 
+// === SignalR ===
+builder.Services.AddSignalR();
+
+// CORS para SignalR (si el front está en otro dominio/puerto ajustá orígenes)
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("SignalRCors", p =>
+        p.AllowAnyHeader()
+         .AllowAnyMethod()
+         .AllowCredentials()
+         .SetIsOriginAllowed(_ => true)); // En producción, restringí orígenes
+});
+
 var app = builder.Build();
 
 // Pipeline HTTP
@@ -30,8 +44,11 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Orden correcto: Routing -> Authentication -> Authorization
+// Orden correcto: Routing -> (CORS) -> Authentication -> Authorization
 app.UseRouting();
+
+app.UseCors("SignalRCors");
+
 app.UseAuthentication();
 app.UseAuthorization();
 
@@ -43,4 +60,18 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+// === Endpoint del Hub de SignalR ===
+app.MapHub<EsperasHub>("/hubs/esperas");
+
 app.Run();
+
+/// ================= HUB =================
+public class EsperasHub : Hub
+{
+    // Útil si querés segmentar (p.ej. "medicos", "recepcion" o "consultorio-3")
+    public Task JoinGrupo(string grupo) =>
+        Groups.AddToGroupAsync(Context.ConnectionId, grupo);
+
+    public Task LeaveGrupo(string grupo) =>
+        Groups.RemoveFromGroupAsync(Context.ConnectionId, grupo);
+}

@@ -1,4 +1,5 @@
 using _02___sistemas._00___Login;
+using _02___sistemas._01___Servicios;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
@@ -6,6 +7,7 @@ using PaginaWeb.Models;
 using System.Data;
 using System.Diagnostics;
 using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace PaginaWeb.Controllers
 {
@@ -18,9 +20,13 @@ namespace PaginaWeb.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            // Cierra la sesión y elimina todos los claims (cookie incluida)
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            cls_ListaServicio listaServicio = new cls_ListaServicio();
+            DataTable servicios = listaServicio.getServiciosActivos("1").Result; // Aquí puedes pasar el id del consultorio que necesites
+            return View(servicios);
         }
 
         public IActionResult Login()
@@ -43,6 +49,7 @@ namespace PaginaWeb.Controllers
                     new Claim(ClaimTypes.Name, usuario),
                     // Por ejemplo, un claim con el ID o el rol desde tu DataTable:
                     new Claim("UserId", dt.Rows[0]["Id"].ToString()),
+                    new Claim("id_Consultorio", dt.Rows[0]["id_Consultorio"].ToString()),
                     new Claim(ClaimTypes.Role, dt.Rows[0]["Rol"].ToString())
                 };
 

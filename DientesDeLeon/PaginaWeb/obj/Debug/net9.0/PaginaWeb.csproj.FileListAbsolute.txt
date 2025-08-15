@@ -263,7 +263,6 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\P
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\bktnk04u4k-15ep9dwwo0.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\yu0hfdsuxe-sgkdqzioi7.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\2vvawogy9c-7iqry6zm43.gz
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\v9upq4ecec-npi0ofkb6t.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\ypj4b2n2e6-s0vq81kcdz.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\hb1mnws30i-iuxizeo7kq.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\xb3rnuji9z-peemxa8232.gz
@@ -277,3 +276,14 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\P
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\2m0upb8sys-euql4376kz.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\ci5huw1qop-fgjp9cpxrt.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\PaginaWeb.sourcelink.json
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\v9upq4ecec-nbg6hor1bb.gz
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll

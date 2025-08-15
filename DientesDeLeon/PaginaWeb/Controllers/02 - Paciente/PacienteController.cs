@@ -21,7 +21,7 @@ namespace PaginaWeb.Controllers._01___Paciente
 
             return View("CrearPaciente",PacienteNuevo);
         }
-
+        [Authorize(Roles = "admin")]
         [HttpPost]
         public async Task<ActionResult> CrearPacienteNuevo(PacienteViewModel PacienteNuevo)
         {
@@ -58,7 +58,7 @@ namespace PaginaWeb.Controllers._01___Paciente
             pacientes = await listarPacientesServicio.ObtenerTodosPacientes();
             return View(pacientes);
         }
-
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public async Task<ActionResult> BuscarPacientes(string buscar)
         {

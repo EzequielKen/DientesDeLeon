@@ -57,7 +57,7 @@
         <nav class="sidebar">
             <div class="dismiss"><i class="fas fa-arrow-left"></i></div>
             <div class="logo">
-                <h3><a asp-controller="Landing" asp-action="Landing">AIDEN</a></h3>
+                <h3><a asp-controller="Landing" asp-action="LandingAdmin">Landing</a></h3>
             </div>
             <ul class="list-unstyled menu-elements">
                 <!-- Home -->
@@ -71,16 +71,31 @@
                         <i class="fas fa-home"></i> Home
                     </a>
                     <ul class="collapse list-unstyled" id="otherSections">
-                        <li><a asp-controller="Landing" asp-action="Landing">Landing</a></li>
-                        <li><a href="../../01 - Paginas/01 - Landing/PerfilUsuario.aspx">Perfil</a></li>
+                        <li><a asp-controller="Landing" asp-action="LandingAdmin">Landing</a></li>
                         <hr />
-                        <li><a href="../../Default.aspx">Cerrar Sesión</a></li>
+                        <li><a asp-controller="home" asp-action="index">Cerrar Sesión</a></li>
                     </ul>
                 </li>
 
                 <hr />
 
-                <!-- Negocios -->
+                <!-- Servicios -->
+                <li>
+                    <a href="#"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#sala"
+                       aria-expanded="false"
+                       aria-controls="sala"
+                       role="button">
+                        <i class="bi bi-house-add"></i>Salas de atencion
+                    </a>
+                    <ul class="collapse " id="sala">
+                        <li><a asp-controller="Sala" asp-action="CrearSala">Crear Sala</a></li>
+                        <li><a asp-controller="Sala" asp-action="ListaSala">Lista de salas</a></li>
+                    </ul>
+                </li>
+                <hr />
+                <!-- Servicios -->
                 <li>
                     <a href="#"
                        data-bs-toggle="collapse"
@@ -88,42 +103,32 @@
                        aria-expanded="false"
                        aria-controls="otherSections1"
                        role="button">
-                        <i class="bi bi-people-fill"></i></i> Pacientes
+                        <i class="bi bi-list-ol"></i>Servicios
                     </a>
                     <ul class="collapse " id="otherSections1">
+                        <li><a asp-controller="Servicios" asp-action="CrearServicio">Crear Servicios</a></li>
+                        <li><a asp-controller="Servicios" asp-action="ListaServicio">Lista de Servicios</a></li>
+                    </ul>
+                </li>
+                <!-- Pacientes -->
+                <li>
+                    <a href="#"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#otherSections2"
+                       aria-expanded="false"
+                       aria-controls="otherSections2"
+                       role="button">
+                        <i class="bi bi-people-fill"></i></i> Pacientes
+                    </a>
+                    <ul class="collapse " id="otherSections2">
                         <li><a asp-controller="Paciente" asp-action="CrearPaciente">Crear Paciente</a></li>
                     </ul>
-                    <ul class="collapse " id="otherSections1">
+                    <ul class="collapse " id="otherSections2">
                         <li><a asp-controller="Paciente" asp-action="ListaPacientes">Lista de Paciente</a></li>
                     </ul>
                 </li>
 
-                @{
-                    string negocioId = User.FindFirst("NegocioId")?.Value;
-                    if (negocioId!=null)
-                    {
-                        string NombreNegocio = User.FindFirst("NombreNegocio")?.Value;
 
-                        <hr />
-                        <h1 class="bg-white">@NombreNegocio</h1>
-                        <hr />
-
-                        <li>
-                            <a href="#"
-                               data-bs-toggle="collapse"
-                               data-bs-target="#otherSections2"
-                               aria-expanded="false"
-                               aria-controls="otherSections2"
-                               role="button">
-                                <i class="bi bi-cart-fill"></i> Compras
-                            </a>
-                            <ul class="collapse " id="otherSections2">
-                                <li><a asp-controller="Proveedores" asp-action="Proveedores">Proveedores</a></li>
-                                <li><a asp-controller="MisProveedores" asp-action="ProveedoresPropios">Mis Proveedores</a></li>
-                            </ul>
-                        </li>
-                    }
-                }
             </ul>
 
             <div class="to-top">
