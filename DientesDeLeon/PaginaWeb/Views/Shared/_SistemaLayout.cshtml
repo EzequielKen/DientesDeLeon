@@ -83,22 +83,6 @@
                 <li>
                     <a href="#"
                        data-bs-toggle="collapse"
-                       data-bs-target="#sala"
-                       aria-expanded="false"
-                       aria-controls="sala"
-                       role="button">
-                        <i class="bi bi-house-add"></i>Salas de atencion
-                    </a>
-                    <ul class="collapse " id="sala">
-                        <li><a asp-controller="Sala" asp-action="CrearSala">Crear Sala</a></li>
-                        <li><a asp-controller="Sala" asp-action="ListaSala">Lista de salas</a></li>
-                    </ul>
-                </li>
-                <hr />
-                <!-- Servicios -->
-                <li>
-                    <a href="#"
-                       data-bs-toggle="collapse"
                        data-bs-target="#otherSections1"
                        aria-expanded="false"
                        aria-controls="otherSections1"
@@ -110,6 +94,24 @@
                         <li><a asp-controller="Servicios" asp-action="ListaServicio">Lista de Servicios</a></li>
                     </ul>
                 </li>
+                <!-- Servicios -->
+                <li>
+                    <a href="#"
+                       data-bs-toggle="collapse"
+                       data-bs-target="#sala"
+                       aria-expanded="false"
+                       aria-controls="sala"
+                       role="button">
+                        <i class="bi bi-house-add"></i>Salas de atencion
+                    </a>
+                    <ul class="collapse " id="sala">
+                        <li><a asp-controller="Sala" asp-action="CrearSala">Crear Sala</a></li>
+                        <li><a asp-controller="Sala" asp-action="ListaSala">Lista de salas</a></li>
+                    </ul>
+                </li>
+
+
+                <hr />
                 <!-- Pacientes -->
                 <li>
                     <a href="#"
@@ -131,15 +133,6 @@
 
             </ul>
 
-            <div class="to-top">
-                <a class="btn btn-primary btn-customized-3" href="#" role="button">
-                    <i class="fas fa-arrow-up"></i> Top
-                </a>
-            </div>
-            <div class="dark-light-buttons">
-                <a class="btn btn-primary btn-customized-4 btn-customized-dark" href="#" role="button">Dark</a>
-                <a class="btn btn-primary btn-customized-4 btn-customizada-light" href="#" role="button">Light</a>
-            </div>
         </nav>
         <!-- End sidebar -->
 

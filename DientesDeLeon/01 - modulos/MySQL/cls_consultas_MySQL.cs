@@ -192,6 +192,30 @@ namespace _01___modulos.MySQL
             string query = "SELECT * FROM " + base_de_datos + ".salas where Sala='"+sala+"' and id_Consultorio='" + id_Consultorio + "'";
             return await consultar_query(query);
         }
+        public async Task<DataTable> consultar_salas_de_consultorios(string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".salas where id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
+        public async Task<DataTable> consultar_sala_por_id(string id)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".salas where id='" + id + "'";
+            return await consultar_query(query);
+        }
+        #endregion
+
+        #region atencion de sala
+        public async Task<DataTable> consultar_atencion_de_sala(string id_sala, string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".atencion_de_sala where id_sala='" + id_sala + "' and id_Consultorio='" + id_Consultorio + "' and activo='1'";
+            return await consultar_query(query);
+        }
+
+        public async Task<DataTable> consultar_atencion(string id_sala, string id_servicio, string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".atencion_de_sala where id_sala='" + id_sala + "' and id_servicio='" + id_servicio + "'  and id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
         #endregion
         #endregion
     }

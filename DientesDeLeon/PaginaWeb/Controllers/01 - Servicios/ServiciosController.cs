@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PaginaWeb.Models;
+using PaginaWeb.Servicios._01___Paciente;
 using PaginaWeb.Servicios._01___Servicios;
+using System.Data;
 using System.Threading.Tasks;
 
 namespace PaginaWeb.Controllers._01___Servicios
@@ -86,6 +88,15 @@ namespace PaginaWeb.Controllers._01___Servicios
             ListarServicioServicio listarServicio = new ListarServicioServicio();
             var resultado = await listarServicio.CambiarEstadoDeServicio(idServicio);
             return RedirectToAction("ListaServicio");
+        }
+        [Authorize(Roles = "admin")]
+        [HttpGet]
+        public async Task<ActionResult> BuscarServicio(string buscar)
+        {
+            ListarServicioServicio ListarServicioServicio = new ListarServicioServicio();
+            string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;
+            DataTable servicios = await ListarServicioServicio.BuscarServicio(buscar, id_Consultorio);
+            return View("ListaServicio", servicios);
         }
     }
 }

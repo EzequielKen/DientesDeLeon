@@ -7,15 +7,14 @@
 <div class="container">
     <!-- BARRA DE BÚSQUEDA -->
     <div class="alert alert-dark mb-3">
-        <form method="get" asp-action="Index" class="d-flex align-items-center">
+        <form method="get" asp-controller="Servicios" asp-action="BuscarServicio" class="d-flex align-items-center">
             <label class="me-2 mb-0">Buscar:</label>
             <input name="buscar"
                    value="@buscar"
                    class="form-control me-2"
                    placeholder="Buscar..." />
-            <button type="submit" class="btn btn-primary">Ir</button>
+            <button type="submit" class="btn btn-primary">Buscar</button>
         </form>
-        <a asp-controller="Negocio" asp-action="CrearNegocio" class="btn btn-primary">Crear Negocio</a>
     </div>
 
     <!-- LISTA DE NEGOCIOS -->
