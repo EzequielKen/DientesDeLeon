@@ -138,16 +138,20 @@
 
         <div class="overlay"></div>
 
-        <!-- Open sidebar -->
-        <a class="btn btn-primary btn-customized open-menu" href="#" role="button">
+
+        <!-- Botón fijo -->
+        <a class="btn btn-primary btn-customized open-menu" href="#" role="button" style="position: relative; top: 20px; left: 20px; z-index: 1000;">
             <i class="fas fa-align-left"></i> Menu | @ViewData["Title"]
         </a>
 
-        <div class="container-fluid">
+        <!-- Contenedor del contenido con margen superior -->
+        <div class="container-fluid" style="margin-top: 80px;">
             <main role="main" class="pb-3">
                 @RenderBody()
             </main>
         </div>
+
+
 
         <!-- Footer -->
         <footer class="footer-container">

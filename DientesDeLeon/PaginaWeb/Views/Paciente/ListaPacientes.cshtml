@@ -29,7 +29,7 @@
                     {
                         <th>@Model.Columns[columna].ColumnName</th>
                     }
-                    <th>Espera</th>
+                    <th>Recibir</th>
                 </tr>
             </thead>
             <tbody>
@@ -42,10 +42,10 @@
                             <td>@Model.Rows[fila][columna].ToString()</td>
                         }
                         <td>
-                            <form method="post" asp-controller="Paciente" asp-action="AdministrarNegocio">
+                            <form method="post" asp-controller="Recepcion" asp-action="RecepcionarPaciente">
                                 <input type="hidden" name="pacienteId" value="@Model.Rows[fila]["id"].ToString()" />
                                 <button type="submit" class="btn btn-primary">
-                                    Enviar a espera
+                                    Recibir
                                 </button>
                             </form>
                         </td>

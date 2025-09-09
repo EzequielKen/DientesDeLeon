@@ -161,6 +161,11 @@ namespace _01___modulos.MySQL
             string query = "SELECT * FROM " + base_de_datos + ".usuarios where Usuario='" + Usuario + "' and Rol='Paciente'";
             return await consultar_query(query);
         }
+        public async Task<DataTable> consultar_paciente_por_id(string Id)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".usuarios where Id='" + Id + "' and Rol='Paciente'";
+            return await consultar_query(query);
+        }
         #endregion
 
         #region servicios
@@ -214,6 +219,19 @@ namespace _01___modulos.MySQL
         public async Task<DataTable> consultar_atencion(string id_sala, string id_servicio, string id_Consultorio)
         {
             string query = "SELECT * FROM " + base_de_datos + ".atencion_de_sala where id_sala='" + id_sala + "' and id_servicio='" + id_servicio + "'  and id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
+        public async Task<DataTable> consultar_atencion_por_servicio(string id_servicio, string id_Consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".atencion_de_sala where id_servicio='" + id_servicio + "'  and id_Consultorio='" + id_Consultorio + "'";
+            return await consultar_query(query);
+        }
+        #endregion
+
+        #region atencion
+        public async Task<DataTable> consultar_atencion_de_usuario(string id_consultorio, string id_usuario)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".atencion where id_consultorio='" + id_consultorio + "'  and id_usuario='" + id_usuario + "' and activo='1'";
             return await consultar_query(query);
         }
         #endregion

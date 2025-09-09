@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\shared\\_sistemalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\shared\\_sistemalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\02 - sistemas\\05 - recepcion\\cls_recepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|solutionrelative:02 - sistemas\\05 - recepcion\\cls_recepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\controllers\\05 - recepcion\\recepcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\controllers\\05 - recepcion\\recepcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\recepcion\\recepcionarpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\recepcion\\recepcionarpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\servicios\\05 - recepcion\\recepcionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\servicios\\05 - recepcion\\recepcionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\controllers\\04 - atencion\\atencioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\controllers\\04 - atencion\\atencioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\atencion\\administraratencion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\atencion\\administraratencion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD342343-99EF-4174-B298-9253194BAE77}|01 - modulos\\01 - modulos.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\01 - modulos\\mysql\\cls_consultas_mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD342343-99EF-4174-B298-9253194BAE77}|01 - modulos\\01 - modulos.csproj|solutionrelative:01 - modulos\\mysql\\cls_consultas_mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\servicios\\04 - atencion\\administraratencionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\servicios\\04 - atencion\\administraratencionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\paciente\\listapacientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\paciente\\listapacientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\02 - sistemas\\cls_funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|solutionrelative:02 - sistemas\\cls_funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\shared\\_sistemalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\shared\\_sistemalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\02 - sistemas\\02 - paciente\\cls_listapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|solutionrelative:02 - sistemas\\02 - paciente\\cls_listapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\sala\\listasala.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\sala\\listasala.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\servicios\\listaservicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\servicios\\listaservicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\02 - sistemas\\04 - atencion\\cls_administraratencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA48CA61-F52A-43AE-8782-1E2D1DBA68F1}|02 - sistemas\\02 - sistemas.csproj|solutionrelative:02 - sistemas\\04 - atencion\\cls_administraratencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\servicios\\01 - servicios\\listarservicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\servicios\\01 - servicios\\listarservicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD342343-99EF-4174-B298-9253194BAE77}|01 - modulos\\01 - modulos.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\01 - modulos\\mysql\\cls_consultas_mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD342343-99EF-4174-B298-9253194BAE77}|01 - modulos\\01 - modulos.csproj|solutionrelative:01 - modulos\\mysql\\cls_consultas_mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,102 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "_SistemaLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Shared\\_SistemaLayout.cshtml",
               "RelativeDocumentMoniker": "PaginaWeb\\Views\\Shared\\_SistemaLayout.cshtml",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Shared\\_SistemaLayout.cshtml*",
-              "RelativeToolTip": "PaginaWeb\\Views\\Shared\\_SistemaLayout.cshtml*",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAF8AAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Shared\\_SistemaLayout.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Shared\\_SistemaLayout.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-22T18:10:56.019Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaPacientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Paciente\\ListaPacientes.cshtml",
+              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Paciente\\ListaPacientes.cshtml",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Paciente\\ListaPacientes.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Paciente\\ListaPacientes.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:15:39.553Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AtencionController.cs",
-              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
-              "RelativeDocumentMoniker": "PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
-              "RelativeToolTip": "PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAIBAwEAAAAAMAAAAAAAAAA==",
+              "Title": "RecepcionController.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\05 - Recepcion\\RecepcionController.cs",
+              "RelativeDocumentMoniker": "PaginaWeb\\Controllers\\05 - Recepcion\\RecepcionController.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\05 - Recepcion\\RecepcionController.cs",
+              "RelativeToolTip": "PaginaWeb\\Controllers\\05 - Recepcion\\RecepcionController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEMAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T21:14:27.85Z",
+              "WhenOpened": "2025-09-04T09:22:13.595Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AdministrarAtencion.cshtml",
-              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Atencion\\AdministrarAtencion.cshtml",
-              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Atencion\\AdministrarAtencion.cshtml",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Atencion\\AdministrarAtencion.cshtml",
-              "RelativeToolTip": "PaginaWeb\\Views\\Atencion\\AdministrarAtencion.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Title": "RecepcionarPaciente.cshtml",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Recepcion\\RecepcionarPaciente.cshtml",
+              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Recepcion\\RecepcionarPaciente.cshtml",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Recepcion\\RecepcionarPaciente.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Recepcion\\RecepcionarPaciente.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T21:14:07.513Z",
+              "WhenOpened": "2025-09-04T09:23:37.204Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AdministrarAtencionServicio.cs",
-              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Servicios\\04 - Atencion\\AdministrarAtencionServicio.cs",
-              "RelativeDocumentMoniker": "PaginaWeb\\Servicios\\04 - Atencion\\AdministrarAtencionServicio.cs",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Servicios\\04 - Atencion\\AdministrarAtencionServicio.cs",
-              "RelativeToolTip": "PaginaWeb\\Servicios\\04 - Atencion\\AdministrarAtencionServicio.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA7wC8AAAAJAAAAAAAAAA==",
+              "Title": "RecepcionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Servicios\\05 - Recepcion\\RecepcionServicio.cs",
+              "RelativeDocumentMoniker": "PaginaWeb\\Servicios\\05 - Recepcion\\RecepcionServicio.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Servicios\\05 - Recepcion\\RecepcionServicio.cs",
+              "RelativeToolTip": "PaginaWeb\\Servicios\\05 - Recepcion\\RecepcionServicio.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDsAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T21:22:57.225Z",
+              "WhenOpened": "2025-09-04T09:28:42.857Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "cls_AdministrarAtencion.cs",
-              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
-              "RelativeDocumentMoniker": "02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
-              "RelativeToolTip": "02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAqwHEAAABpAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "cls_Recepcion.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\05 - Recepcion\\cls_Recepcion.cs",
+              "RelativeDocumentMoniker": "02 - sistemas\\05 - Recepcion\\cls_Recepcion.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\05 - Recepcion\\cls_Recepcion.cs",
+              "RelativeToolTip": "02 - sistemas\\05 - Recepcion\\cls_Recepcion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T00:50:54.549Z",
+              "WhenOpened": "2025-09-04T09:30:26.608Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "cls_consultas_MySQL.cs",
-              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
-              "RelativeDocumentMoniker": "01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
-              "RelativeToolTip": "01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAIAwwNEAAACrAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "cls_ListaPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\02 - Paciente\\cls_ListaPacientes.cs",
+              "RelativeDocumentMoniker": "02 - sistemas\\02 - Paciente\\cls_ListaPacientes.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\02 - Paciente\\cls_ListaPacientes.cs",
+              "RelativeToolTip": "02 - sistemas\\02 - Paciente\\cls_ListaPacientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T18:53:20.393Z",
+              "WhenOpened": "2025-09-04T09:39:59.337Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ListarServicioServicio.cs",
-              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Servicios\\01 - Servicios\\ListarServicioServicio.cs",
-              "RelativeDocumentMoniker": "PaginaWeb\\Servicios\\01 - Servicios\\ListarServicioServicio.cs",
-              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Servicios\\01 - Servicios\\ListarServicioServicio.cs",
-              "RelativeToolTip": "PaginaWeb\\Servicios\\01 - Servicios\\ListarServicioServicio.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Title": "cls_consultas_MySQL.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
+              "RelativeDocumentMoniker": "01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
+              "RelativeToolTip": "01 - modulos\\MySQL\\cls_consultas_MySQL.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAhwOkAAACqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:33:45.155Z"
+              "WhenOpened": "2025-09-04T09:42:15.136Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtencionController.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
+              "RelativeDocumentMoniker": "PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
+              "RelativeToolTip": "PaginaWeb\\Controllers\\04 - Atencion\\AtencionController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:03:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cls_funciones.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\cls_funciones.cs",
+              "RelativeDocumentMoniker": "02 - sistemas\\cls_funciones.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\cls_funciones.cs",
+              "RelativeToolTip": "02 - sistemas\\cls_funciones.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAIA3wMMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:35:18.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaSala.cshtml",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Sala\\ListaSala.cshtml",
+              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Sala\\ListaSala.cshtml",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Sala\\ListaSala.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Sala\\ListaSala.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T07:56:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaServicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Servicios\\ListaServicio.cshtml",
+              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Servicios\\ListaServicio.cshtml",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Servicios\\ListaServicio.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Servicios\\ListaServicio.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T07:56:21.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cls_AdministrarAtencion.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
+              "RelativeDocumentMoniker": "02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
+              "RelativeToolTip": "02 - sistemas\\04 - Atencion\\cls_AdministrarAtencion.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwGoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:34:22.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "PaginaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Program.cs",
+              "RelativeToolTip": "PaginaWeb\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAxwEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T22:13:20.702Z"
             }
           ]
         }

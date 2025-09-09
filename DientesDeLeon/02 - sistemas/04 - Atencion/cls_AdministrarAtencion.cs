@@ -104,7 +104,13 @@ namespace _02___sistemas._04___Atencion
             }
             return atencionSala;
         }
+        public async Task<DataTable> getAtencion_porServicio(string id_servicio, string id_consultorio)
+        {
+            DataTable atencionSala = await consultas.consultar_atencion_por_servicio(id_servicio, id_consultorio);
 
+
+            return atencionSala;
+        }
         public async Task<DataTable> getClone()
         {
             DataTable clone = await consultas.consultar_tabla("atencion_de_sala");

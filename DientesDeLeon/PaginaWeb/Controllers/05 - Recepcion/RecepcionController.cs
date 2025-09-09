@@ -1,5 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PaginaWeb.Servicios._05___Recepcion;
+using System.Data;
+using System.Threading.Tasks;
 
 namespace PaginaWeb.Controllers._03___Recepcion
 {
@@ -7,78 +11,62 @@ namespace PaginaWeb.Controllers._03___Recepcion
     public class RecepcionController : Controller
     {
         // GET: RecepcionController
-        public ActionResult Index()
+        [Authorize(Roles = "admin,recepcion")]
+        public async Task<ActionResult> RecepcionarPaciente(string pacienteId)
         {
-            return View();
+            RecepcionServicio recepcionServicio = new RecepcionServicio();
+            ViewBag.PacienteId = pacienteId;
+            HttpContext.Session.SetString("PacienteId", pacienteId);
+            string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;
+            DataTable paciente = await recepcionServicio.GetPacientePorId(pacienteId);
+            DataTable servicios = await recepcionServicio.GetServicios(id_Consultorio);
+            DataTable serviciosSeleccionados = await recepcionServicio.getAtencionDePaciente(id_Consultorio, pacienteId);
+            return View(Tuple.Create(paciente, servicios, serviciosSeleccionados));
         }
 
-        // GET: RecepcionController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        // GET: RecepcionController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: RecepcionController/Create
+        [Authorize(Roles = "admin,recepcion")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<ActionResult> EnviarPacienteAEspera(string idServicio)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            RecepcionServicio recepcionServicio = new RecepcionServicio();
+            //id_consultorio id_usuario id_servicio id_sala
+            string id_consultorio = User.FindFirst("id_Consultorio")?.Value;
+            string id_usuario = HttpContext.Session.GetString("PacienteId");
+            string id_servicio = idServicio;
+            //string id_sala = idSala;
+            await recepcionServicio.EnviarPacienteAEspera(id_consultorio, id_usuario, id_servicio);
+            return RedirectToAction("RecepcionarPaciente", new { pacienteId = id_usuario });
         }
-
-        // GET: RecepcionController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: RecepcionController/Edit/5
+        [Authorize(Roles = "admin,recepcion")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<ActionResult> EliminarAtencion(string idAtencion)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            RecepcionServicio recepcionServicio = new RecepcionServicio();
+            string id_usuario = HttpContext.Session.GetString("PacienteId");
+            await recepcionServicio.EliminarAtencion(idAtencion);
+            return RedirectToAction("RecepcionarPaciente", new { pacienteId = id_usuario });
         }
-
-        // GET: RecepcionController/Delete/5
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> BuscarServicio(string buscar)
         {
-            return View();
+            RecepcionServicio recepcionServicio = new RecepcionServicio();
+            string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;
+            string id_usuario = HttpContext.Session.GetString("PacienteId");
+            ViewBag.PacienteId = id_usuario;
+            DataTable paciente = await recepcionServicio.GetPacientePorId(id_usuario);
+            DataTable servicios = await recepcionServicio.BuscarServicio(buscar, id_Consultorio);
+            DataTable serviciosSeleccionados = await recepcionServicio.getAtencionDePaciente(id_Consultorio, id_usuario);
+            return View("RecepcionarPaciente", Tuple.Create(paciente, servicios, serviciosSeleccionados));
         }
-
-        // POST: RecepcionController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<ActionResult> BuscarAtencionDePaciente(string BuscarAtencion)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            RecepcionServicio recepcionServicio = new RecepcionServicio();
+            string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;
+            string id_usuario = HttpContext.Session.GetString("PacienteId");
+            ViewBag.PacienteId = id_usuario;
+            DataTable paciente = await recepcionServicio.GetPacientePorId(id_usuario);
+            DataTable servicios = await recepcionServicio.GetServicios(id_Consultorio);
+            DataTable serviciosSeleccionados = await recepcionServicio.BuscarAtencionDePaciente(BuscarAtencion, id_Consultorio, id_usuario);
+            return View("RecepcionarPaciente", Tuple.Create(paciente, servicios, serviciosSeleccionados));
         }
     }
 }

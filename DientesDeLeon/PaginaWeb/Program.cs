@@ -32,9 +32,9 @@ builder.Services.AddCors(options =>
          .AllowCredentials()
          .SetIsOriginAllowed(_ => true)); // En producción, restringí orígenes
 });
-
+builder.Services.AddSession();
 var app = builder.Build();
-
+app.UseSession();
 // Pipeline HTTP
 if (!app.Environment.IsDevelopment())
 {
