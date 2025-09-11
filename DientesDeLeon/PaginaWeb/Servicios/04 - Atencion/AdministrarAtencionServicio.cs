@@ -9,6 +9,11 @@ namespace PaginaWeb.Servicios._04___Atencion
         cls_AdministrarAtencion administrarAtencion = new cls_AdministrarAtencion();
         ListarServicioServicio listarServicio = new ListarServicioServicio();
 
+        public async Task<string> getNombreSala(string id_sala)
+        {
+            return await administrarAtencion.getNombreDeSala(id_sala);
+        }
+
         public async Task CargarAtencion(string id_sala, string id_servicio, string  id_consultorio)
         {
             DataTable atencionNueva = await administrarAtencion.getClone();

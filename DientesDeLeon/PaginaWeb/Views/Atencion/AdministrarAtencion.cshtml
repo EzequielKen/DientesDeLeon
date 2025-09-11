@@ -1,4 +1,4 @@
-﻿@model Tuple<System.Data.DataTable, System.Data.DataTable>
+﻿@model Tuple<System.Data.DataTable, System.Data.DataTable,string>
 
 @{
     ViewData["Title"] = "Administrar Atención";
@@ -8,8 +8,12 @@
     var BuscarAtencion = Context.Request.Query["buscarAtencion"].ToString();
     var Servicios = Model?.Item1;
     var ServiciosSeleccionados = Model?.Item2;
+    var NombreDeSala = Model?.Item3;
 }
 <div class="container">
+    <div class="alert alert-light">
+        <h1 class="text-center">Administrar Atención: @NombreDeSala</h1>
+    </div>
     <div class="row">
         <div class="col-md-6">
             <div class="container">

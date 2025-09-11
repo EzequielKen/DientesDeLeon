@@ -223,7 +223,7 @@ namespace _01___modulos.MySQL
         }
         public async Task<DataTable> consultar_atencion_por_servicio(string id_servicio, string id_Consultorio)
         {
-            string query = "SELECT * FROM " + base_de_datos + ".atencion_de_sala where id_servicio='" + id_servicio + "'  and id_Consultorio='" + id_Consultorio + "'";
+            string query = "SELECT * FROM " + base_de_datos + ".atencion_de_sala where id_servicio='" + id_servicio + "'  and id_Consultorio='" + id_Consultorio + "' and activo=1";
             return await consultar_query(query);
         }
         #endregion
@@ -234,6 +234,14 @@ namespace _01___modulos.MySQL
             string query = "SELECT * FROM " + base_de_datos + ".atencion where id_consultorio='" + id_consultorio + "'  and id_usuario='" + id_usuario + "' and activo='1'";
             return await consultar_query(query);
         }
+        #endregion
+        public async Task<DataTable> consultar_atencion_de_tecnico(string id_tecnico, string id_consultorio)
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".atencion_de_tecnico where id_tecnico='" + id_tecnico + "'  and id_consultorio='" + id_consultorio + "' and activo='1'";
+            return await consultar_query(query);
+        }
+        #region tecnico
+
         #endregion
         #endregion
     }

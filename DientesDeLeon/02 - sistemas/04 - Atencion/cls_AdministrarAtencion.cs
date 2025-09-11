@@ -80,6 +80,13 @@ namespace _02___sistemas._04___Atencion
         #endregion
 
         #region metodos get
+        public async Task<string> getNombreDeSala(string id_sala)
+        {
+            DataTable salas = await consultas.consultar_tabla("salas");
+            int fila_sala = funciones.buscar_fila_por_dato(id_sala, "id", salas);
+            string nombreDeSala = salas.Rows[fila_sala]["Sala"].ToString();
+            return nombreDeSala;
+        }
         public async Task<DataTable> getAtencionDeSala(string id_sala, string id_consultorio)
         {
             await ConsultarServiciosActivosDeConsultorio(id_consultorio);

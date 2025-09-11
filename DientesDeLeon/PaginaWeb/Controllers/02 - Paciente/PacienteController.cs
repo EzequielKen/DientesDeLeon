@@ -11,7 +11,7 @@ namespace PaginaWeb.Controllers._01___Paciente
     public class PacienteController : Controller
     {
         // GET: PacienteController
-        [Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin,recepcion")]
         public ActionResult CrearPaciente(PacienteViewModel PacienteNuevo)
         {
             cls_Twilio twilio = new cls_Twilio();
@@ -21,7 +21,7 @@ namespace PaginaWeb.Controllers._01___Paciente
 
             return View("CrearPaciente",PacienteNuevo);
         }
-        [Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin,recepcion")]
         [HttpPost]
         public async Task<ActionResult> CrearPacienteNuevo(PacienteViewModel PacienteNuevo)
         {
@@ -49,7 +49,7 @@ namespace PaginaWeb.Controllers._01___Paciente
             return RedirectToAction("LandingAdmin", "Landing");
         }
 
-        [Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin,recepcion")]
         [HttpGet]
         public async Task<ActionResult> ListaPacientes()
         {
@@ -58,7 +58,7 @@ namespace PaginaWeb.Controllers._01___Paciente
             pacientes = await listarPacientesServicio.ObtenerTodosPacientes();
             return View(pacientes);
         }
-        [Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin,recepcion")]
         [HttpGet]
         public async Task<ActionResult> BuscarPacientes(string buscar)
         {

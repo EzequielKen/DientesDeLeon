@@ -19,9 +19,10 @@ namespace PaginaWeb.Controllers._04___Atencion
             ViewBag.IdSala = idSala;
             AdministrarAtencionServicio administrarAtencion = new AdministrarAtencionServicio();
             string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;
+            string NombreDeSala = await administrarAtencion.getNombreSala(idSala);
             DataTable servicios = await administrarAtencion.ObtenerServiciosParaAtencion(id_Consultorio);
             DataTable atencionDeSala = await administrarAtencion.ObtenerAtencionDeSala(idSala, id_Consultorio);
-            return View(Tuple.Create(servicios, atencionDeSala));
+            return View(Tuple.Create(servicios, atencionDeSala, NombreDeSala));
         }
         [Authorize(Roles = "admin")]
         [HttpGet]

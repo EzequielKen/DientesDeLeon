@@ -1,7 +1,8 @@
 ﻿using _01___modulos.MySQL;
-using _02___sistemas._01___Paciente;
 using _02___sistemas._01___Servicios;
 using _02___sistemas._04___Atencion;
+using Mysqlx.Datatypes;
+using PhoneNumbers;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -10,86 +11,72 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02___sistemas._05___Recepcion
+namespace _02___sistemas._06___Tecnico
 {
-    public class cls_Recepcion
+    public class cls_Tecnico
     {
         cls_consultas_MySQL consultas = new cls_consultas_MySQL();
-        cls_funciones funciones = new cls_funciones();
         cls_ListaServicio listaServicio = new cls_ListaServicio();
         cls_AdministrarAtencion administrarAtencion = new cls_AdministrarAtencion();
-        DataTable paciente;
-        DataTable atencionDePaciente;
+        cls_funciones funciones = new cls_funciones();
+        DataTable serviciosDeTecnicoBD;
 
         #region carga a base de datos
-        public async Task<bool> eliminar_atencion(string id)
+        public async Task<bool> eliminar_atencion_de_tecnico(string id)
         {
             string actualizar = "`activo`='0'";
-            return await consultas.actualizar_tabla("atencion", actualizar, id);
+            return await consultas.actualizar_tabla("atencion_de_tecnico", actualizar, id);
         }
-        public async Task<bool> enviar_paciente_a_espera(DataTable PacienteEspera)
+        public async Task<bool> agregar_servicio_a_tecnico(DataTable servicioDeTecnico)
         {
             bool retorno = false;
-            string id_servicio = PacienteEspera.Rows[0]["id_servicio"].ToString();
-
-            DataTable servicio = await listaServicio.getServicio_id(id_servicio);
-            PacienteEspera.Rows[0]["precio"] = servicio.Rows[0]["Precio"].ToString();
-            PacienteEspera.Rows[0]["servicio"] = servicio.Rows[0]["servicio"].ToString();
-
-
-            //id_servicio id_consultorio 
-            string id_consultorio = PacienteEspera.Rows[0]["id_consultorio"].ToString();
-            DataTable AtencionDeSalaBD = await administrarAtencion.getAtencion_porServicio(id_servicio, id_consultorio);
-            PacienteEspera.Rows[0]["id_sala"] = AtencionDeSalaBD.Rows[0]["id_Sala"].ToString();
-
-            var query = funciones.armar_query_insertar(PacienteEspera);
-            retorno = await consultas.insertar_en_tabla("atencion", query.columnas, query.valores);
+            var query = funciones.armar_query_insertar(servicioDeTecnico);
+            retorno = await consultas.insertar_en_tabla("atencion_de_tecnico", query.columnas, query.valores);
             return retorno;
         }
         #endregion
 
         #region metodos consultas
-        private async Task consultar_paciente_por_id(string Id)
+        public async Task consultar_servicios_de_tecnico(string id_tecnico, string id_consultorio)
         {
-            paciente = await consultas.consultar_paciente_por_id(Id);
-        }
-        private async Task consultar_atencion_de_paciente(string id_consultorio, string id_usuario)
-        {
-            atencionDePaciente = await consultas.consultar_atencion_de_usuario(id_consultorio,id_usuario);
+            serviciosDeTecnicoBD = await consultas.consultar_atencion_de_tecnico(id_tecnico, id_consultorio);
         }
         #endregion
 
-        #region metodos get/set
-        public async Task<DataTable> getPacientePorId(string Id)
+        #region metodos get
+        public async Task<DataTable> GetClone()
         {
-            await consultar_paciente_por_id(Id);
-            return paciente;
+            DataTable atencion_de_tecnico = await consultas.consultar_tabla("atencion_de_tecnico");
+            return atencion_de_tecnico.Clone();
         }
-        public async Task<DataTable> getServicios(string id_consultorio)
+        public async Task<DataTable> getServiciosDeTecnico(string id_tecnico, string id_consultorio)
         {
-            return await listaServicio.getServiciosActivos(id_consultorio);
-        }
-        public async Task<DataTable> getAtencionDePaciente(string id_consultorio, string id_usuario)
-        {
-            await consultar_atencion_de_paciente(id_consultorio, id_usuario);
-            DataTable salas = await consultas.consultar_tabla("salas");
-            atencionDePaciente.Columns.Add("sala", typeof(string));
-            int fila_sala;
-            string id_sala;
-            for (int fila = 0; fila <= atencionDePaciente.Rows.Count - 1; fila++)
+            await consultar_servicios_de_tecnico(id_tecnico, id_consultorio);
+            serviciosDeTecnicoBD.Columns.Add("servicio", typeof(string));
+            serviciosDeTecnicoBD.Columns.Add("sala", typeof(string));
+
+            DataTable servicios = await listaServicio.getServiciosActivos(id_consultorio);
+            DataTable atencion_de_sala = await consultas.consultar_tabla("atencion_de_sala"); 
+            DataTable salas = await consultas.consultar_tabla("salas"); 
+
+            string id_servicio, id_sala;
+            int fila_servicio,fila_sala;
+            for (int fila = 0; fila <= serviciosDeTecnicoBD.Rows.Count - 1; fila++)
             {
-                id_sala = atencionDePaciente.Rows[fila]["id_sala"].ToString();
-                fila_sala = funciones.buscar_fila_por_dato(id_sala,"id",salas);
-                if (fila_sala != -1)
+                id_servicio = serviciosDeTecnicoBD.Rows[fila]["id_servicio"].ToString();
+                fila_servicio = funciones.buscar_fila_por_dato(id_servicio, "id", servicios);
+                if (fila_servicio != -1)
                 {
-                    atencionDePaciente.Rows[fila]["sala"] = salas.Rows[fila_sala]["sala"].ToString();
+                    serviciosDeTecnicoBD.Rows[fila]["Servicio"] = servicios.Rows[fila_servicio]["Servicio"].ToString();
+                    fila_sala = funciones.buscar_fila_por_dato(id_servicio, "id_servicio", atencion_de_sala);
+                    id_sala = atencion_de_sala.Rows[fila_sala]["id_sala"].ToString();
+                    fila_sala = funciones.buscar_fila_por_dato(id_sala, "id", salas);
+                    serviciosDeTecnicoBD.Rows[fila]["Sala"] = salas.Rows[fila_sala]["Sala"].ToString();
                 }
             }
-            return atencionDePaciente;
+            return serviciosDeTecnicoBD;
         }
-        #endregion
 
-        #region metodos busca
         public async Task<DataTable> BuscarServicioActivo(string servicio, string id_consultorio)
         {
 
@@ -97,7 +84,7 @@ namespace _02___sistemas._05___Recepcion
             string term = (servicio ?? string.Empty).Trim();
             string normTerm = RemoveDiacritics(term).ToUpperInvariant();
 
-            DataTable serviciosBD = await listaServicio.getServicios(id_consultorio);
+            DataTable serviciosBD = await listaServicio.getServiciosActivos(id_consultorio);
             DataTable listaServicios = serviciosBD.Clone();
 
             // Si no hay término, devuelvo todo tal cual
@@ -141,6 +128,7 @@ namespace _02___sistemas._05___Recepcion
                 return sb.ToString().Normalize(NormalizationForm.FormC);
             }
         }
+
         public async Task<DataTable> BuscarAtencionDePaciente(string Atencion, string id_consultorio, string id_usuario)
         {
 
@@ -148,7 +136,7 @@ namespace _02___sistemas._05___Recepcion
             string term = (Atencion ?? string.Empty).Trim();
             string normTerm = RemoveDiacritics(term).ToUpperInvariant();
 
-            DataTable atencionBD = await getAtencionDePaciente(id_consultorio, id_usuario);
+            DataTable atencionBD = await getServiciosDeTecnico(id_usuario, id_consultorio);
             DataTable listaAtencion = atencionBD.Clone();
 
             // Si no hay término, devuelvo todo tal cual
