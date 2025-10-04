@@ -113,7 +113,7 @@
                 }
                 @if (user.IsInRole("admin") || user.IsInRole("tecnico"))
                 {
-                    <!-- Pacientes -->
+                    <!-- Tecnico -->
                     <li>
                         <a href="#"
                            data-bs-toggle="collapse"
@@ -121,10 +121,25 @@
                            aria-expanded="false"
                            aria-controls="tecnico"
                            role="button">
-                            <i class="bi bi-people-fill"></i> Tecnico
+                            <i class="bi bi-person-lines-fill"></i> Tecnico
                         </a>
                         <ul class="collapse" id="tecnico">
                             <li><a asp-controller="Tecnico" asp-action="ServiciosDeTecnico">Seleccionar Servicios</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Sala De Espera -->
+                    <li>
+                        <a href="#"
+                           data-bs-toggle="collapse"
+                           data-bs-target="#SalaDeEspera"
+                           aria-expanded="false"
+                           aria-controls="SalaDeEspera"
+                           role="button">
+                            <i class="bi bi-hospital"></i> Sala De Espera
+                        </a>
+                        <ul class="collapse" id="SalaDeEspera">
+                            <li><a asp-controller="Espera" asp-action="SalaDeEspera">Sala De Espera</a></li>
                         </ul>
                     </li>
                 }

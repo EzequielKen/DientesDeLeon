@@ -235,13 +235,20 @@ namespace _01___modulos.MySQL
             return await consultar_query(query);
         }
         #endregion
+        #region tecnico
         public async Task<DataTable> consultar_atencion_de_tecnico(string id_tecnico, string id_consultorio)
         {
             string query = "SELECT * FROM " + base_de_datos + ".atencion_de_tecnico where id_tecnico='" + id_tecnico + "'  and id_consultorio='" + id_consultorio + "' and activo='1'";
             return await consultar_query(query);
         }
-        #region tecnico
 
+        #endregion
+        #region sala de espera
+        public async Task<DataTable> consultar_Pacientes_En_Espera()
+        {
+            string query = "SELECT * FROM " + base_de_datos + ".atencion where estado='En Espera' and activo='1'";
+            return await consultar_query(query);
+        }
         #endregion
         #endregion
     }
