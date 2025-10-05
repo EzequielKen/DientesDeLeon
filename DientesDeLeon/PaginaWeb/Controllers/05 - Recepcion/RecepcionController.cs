@@ -29,11 +29,9 @@ namespace PaginaWeb.Controllers._03___Recepcion
         public async Task<ActionResult> EnviarPacienteAEspera(string idServicio)
         {
             RecepcionServicio recepcionServicio = new RecepcionServicio();
-            //id_consultorio id_usuario id_servicio id_sala
             string id_consultorio = User.FindFirst("id_Consultorio")?.Value;
             string id_usuario = HttpContext.Session.GetString("PacienteId");
             string id_servicio = idServicio;
-            //string id_sala = idSala;
             await recepcionServicio.EnviarPacienteAEspera(id_consultorio, id_usuario, id_servicio);
             return RedirectToAction("RecepcionarPaciente", new { pacienteId = id_usuario });
         }

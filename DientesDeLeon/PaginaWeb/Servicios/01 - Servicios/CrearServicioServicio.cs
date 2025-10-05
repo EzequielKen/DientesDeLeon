@@ -10,7 +10,6 @@ namespace PaginaWeb.Servicios._01___Servicios
         cls_CrearServicio crearServicio = new cls_CrearServicio();
         public async Task<(string mensaje, bool resultado)> CrearServicio(ServicioViewModel servicioNuevo,string id_consultorio)
         {
-            //AQUI QUIERO PROCESAR EL LOGOFILE
             DataTable servicio_tabla = await crearServicio.getClone();
 
             servicio_tabla.Rows.Add();

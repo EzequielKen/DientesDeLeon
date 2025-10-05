@@ -15,7 +15,6 @@ namespace PaginaWeb.Controllers._04___Atencion
         [HttpGet]
         public async Task<ActionResult> AdministrarAtencion(string idSala)
         {
-            // guardás el idSala en ViewBag para que lo use la vista
             ViewBag.IdSala = idSala;
             AdministrarAtencionServicio administrarAtencion = new AdministrarAtencionServicio();
             string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;

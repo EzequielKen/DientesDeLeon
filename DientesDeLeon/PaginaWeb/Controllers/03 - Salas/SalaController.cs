@@ -65,10 +65,6 @@ namespace PaginaWeb.Controllers._03___Salas
         {
             if (!ModelState.IsValid)
             {
-                // Aquí se guardaría el servicio editado en la base de datos
-                // Por ejemplo: _context.Servicios.Update(SalaEditar);
-                // _context.SaveChanges();
-                // Redirigir a la lista de servicios o a una vista de éxito
                 return RedirectToAction("EditarSala", SalaEditar);
             }
             SalaEditar.id = SalaId;

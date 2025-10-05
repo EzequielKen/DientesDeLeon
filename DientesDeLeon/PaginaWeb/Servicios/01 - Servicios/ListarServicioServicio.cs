@@ -93,11 +93,11 @@ namespace PaginaWeb.Servicios._01___Servicios
             string cambiarEstado;
             if (estado == "1")
             {
-                cambiarEstado = "0"; // Cambiar a inactivo
+                cambiarEstado = "0"; 
             }
             else
             {
-                cambiarEstado = "1"; // Cambiar a activo
+                cambiarEstado = "1"; 
             }
             listaServicio.cambiar_estado_servicio(idServicio, cambiarEstado);
 
@@ -107,23 +107,19 @@ namespace PaginaWeb.Servicios._01___Servicios
         public async Task<DataTable> BuscarServicio(string servicio, string id_consultorio)
         {
 
-            // Preparo el término a buscar (ignoro nulos, espacios, mayúsculas y acentos)
             string term = (servicio ?? string.Empty).Trim();
             string normTerm = RemoveDiacritics(term).ToUpperInvariant();
 
             DataTable listaServicios = await consultar_servicios(id_consultorio);
 
-            // Si no hay término, devuelvo todo tal cual
             bool filtrar = !string.IsNullOrEmpty(normTerm);
 
             for (int fila = 0; fila < serviciosBD.Rows.Count; fila++)
             {
                 string servicioNombre = serviciosBD.Rows[fila]["Servicio"]?.ToString() ?? string.Empty;
 
-                // Normalizo el valor de la BD
                 string normSalaNombre = RemoveDiacritics(servicioNombre).ToUpperInvariant();
 
-                // ¿Coincide?
                 bool coincide = !filtrar || normSalaNombre.Contains(normTerm);
 
                 if (!coincide) continue;
@@ -139,7 +135,6 @@ namespace PaginaWeb.Servicios._01___Servicios
 
             return listaServicios;
 
-            // ==== Helpers ====
             static string RemoveDiacritics(string text)
             {
                 if (string.IsNullOrEmpty(text)) return text;
@@ -157,23 +152,19 @@ namespace PaginaWeb.Servicios._01___Servicios
         public async Task<DataTable> BuscarServicioActivo(string servicio, string id_consultorio)
         {
 
-            // Preparo el término a buscar (ignoro nulos, espacios, mayúsculas y acentos)
             string term = (servicio ?? string.Empty).Trim();
             string normTerm = RemoveDiacritics(term).ToUpperInvariant();
 
             DataTable listaServicios = await consultar_servicios_activos(id_consultorio);
 
-            // Si no hay término, devuelvo todo tal cual
             bool filtrar = !string.IsNullOrEmpty(normTerm);
 
             for (int fila = 0; fila < serviciosBD.Rows.Count; fila++)
             {
                 string servicioNombre = serviciosBD.Rows[fila]["Servicio"]?.ToString() ?? string.Empty;
 
-                // Normalizo el valor de la BD
                 string normSalaNombre = RemoveDiacritics(servicioNombre).ToUpperInvariant();
 
-                // ¿Coincide?
                 bool coincide = !filtrar || normSalaNombre.Contains(normTerm);
 
                 if (!coincide) continue;
@@ -189,7 +180,6 @@ namespace PaginaWeb.Servicios._01___Servicios
 
             return listaServicios;
 
-            // ==== Helpers ====
             static string RemoveDiacritics(string text)
             {
                 if (string.IsNullOrEmpty(text)) return text;

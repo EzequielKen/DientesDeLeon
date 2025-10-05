@@ -36,7 +36,6 @@ namespace PaginaWeb.Servicios._03___Sala
         {
             DataTable salasBD = await this.listaSalas.getSalas(id_consultorio);
 
-            // Preparo el término a buscar (ignoro nulos, espacios, mayúsculas y acentos)
             string term = (sala ?? string.Empty).Trim();
             string normTerm = RemoveDiacritics(term).ToUpperInvariant();
 
@@ -46,17 +45,14 @@ namespace PaginaWeb.Servicios._03___Sala
             listaSalas.Columns.Add("ID", typeof(string));
             listaSalas.Columns.Add("Sala", typeof(string));
 
-            // Si no hay término, devuelvo todo tal cual
             bool filtrar = !string.IsNullOrEmpty(normTerm);
 
             for (int fila = 0; fila < salasBD.Rows.Count; fila++)
             {
                 string salaNombre = salasBD.Rows[fila]["Sala"]?.ToString() ?? string.Empty;
 
-                // Normalizo el valor de la BD
                 string normSalaNombre = RemoveDiacritics(salaNombre).ToUpperInvariant();
 
-                // ¿Coincide?
                 bool coincide = !filtrar || normSalaNombre.Contains(normTerm);
 
                 if (!coincide) continue;
@@ -70,7 +66,6 @@ namespace PaginaWeb.Servicios._03___Sala
 
             return listaSalas;
 
-            // ==== Helpers ====
             static string RemoveDiacritics(string text)
             {
                 if (string.IsNullOrEmpty(text)) return text;

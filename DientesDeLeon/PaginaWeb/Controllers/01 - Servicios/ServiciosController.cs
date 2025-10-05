@@ -32,10 +32,6 @@ namespace PaginaWeb.Controllers._01___Servicios
         {
             if (!ModelState.IsValid)
             {
-                // Aquí se guardaría el servicio editado en la base de datos
-                // Por ejemplo: _context.Servicios.Update(ServicioEditar);
-                // _context.SaveChanges();
-                // Redirigir a la lista de servicios o a una vista de éxito
                 return RedirectToAction("EditarServicio", ServicioEditar);
             }
             ServicioEditar.id = ServicioId;
@@ -54,10 +50,6 @@ namespace PaginaWeb.Controllers._01___Servicios
         {
             if (!ModelState.IsValid)
             {
-                // Aquí se guardaría el servicio en la base de datos
-                // Por ejemplo: _context.Servicios.Add(ServicioNuevo);
-                // _context.SaveChanges();
-                // Redirigir a la lista de servicios o a una vista de éxito
                 return RedirectToAction("CrearServicio", ServicioNuevo);
             }
             CrearServicioServicio crearServicio = new CrearServicioServicio();

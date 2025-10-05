@@ -15,7 +15,6 @@ namespace PaginaWeb.Controllers._06___Tecnico
         [HttpGet]
         public async Task<ActionResult> ServiciosDeTecnico()
         {
-            // guardás el idSala en ViewBag para que lo use la vista
             TecnicoServicio tecnicoServicio = new TecnicoServicio();
             string id_Consultorio = User.FindFirst("id_Consultorio")?.Value;
             string id_tecnico = User.FindFirst("UserId")?.Value;

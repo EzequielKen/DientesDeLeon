@@ -10,7 +10,6 @@ namespace PaginaWeb.Servicios._03___Sala
         cls_CrearSala crearSala= new cls_CrearSala();
         public async Task<(string mensaje, bool resultado)> CrearSala(SalaViewModel SalaNueva, string id_consultorio)
         {
-            //AQUI QUIERO PROCESAR EL LOGOFILE
             DataTable servicio_tabla = await crearSala.getClone();
 
             servicio_tabla.Rows.Add();

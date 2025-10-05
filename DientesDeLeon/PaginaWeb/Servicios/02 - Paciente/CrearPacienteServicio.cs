@@ -15,12 +15,10 @@ namespace PaginaWeb.Servicios._01___Paciente
             {
                 return false;
             }
-            // Verificar que el código de país comience con '+'
             if (!codigoPais.StartsWith("+"))
             {
                 return false;
             }
-            // Verificar que el código de área y el número local sean numéricos
             if (!int.TryParse(codigoArea, out _) || !int.TryParse(numeroLocal, out _))
             {
                 return false;
@@ -32,7 +30,6 @@ namespace PaginaWeb.Servicios._01___Paciente
 
         public async Task<(string mensaje, bool resultado)> CrearPaciente(PacienteViewModel PacienteNuevo)
         {
-            //AQUI QUIERO PROCESAR EL LOGOFILE
             DataTable paciente_tabla = await crearPaciente.getClone();
 
             paciente_tabla.Columns["FechaNacimiento"].DataType = typeof(string);
