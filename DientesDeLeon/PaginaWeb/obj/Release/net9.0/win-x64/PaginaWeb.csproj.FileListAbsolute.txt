@@ -1,0 +1,10 @@
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.csproj.AssemblyReference.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\rpswa.dswa.cache.json
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.AssemblyInfoInputs.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.AssemblyInfo.cs
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.csproj.CoreCompileInputs.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.RazorAssemblyInfo.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.RazorAssemblyInfo.cs
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Release\net9.0\win-x64\PaginaWeb.sourcelink.json

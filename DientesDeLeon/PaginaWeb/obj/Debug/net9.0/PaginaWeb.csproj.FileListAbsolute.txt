@@ -205,7 +205,6 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\P
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\vc3q85tiy3-kq57gu4v7r.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\2w2zcefk7p-54gkd752mq.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\3ksh8cufzf-469asxn6kd.gz
@@ -912,3 +911,4 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\P
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\r13tw3x2gq-3zut1tibj5.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\6fdk0tx3yg-9hvaj0y34k.gz
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\compressed\46ezenv0h6-14b1ymwumt.gz
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

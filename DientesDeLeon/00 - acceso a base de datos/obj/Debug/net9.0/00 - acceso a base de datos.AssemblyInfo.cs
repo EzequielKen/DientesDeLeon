@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("00 - acceso a base de datos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40db62848a5e876266d554f7c39c09478365d50a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26100fe5467d350046c1eec563a537d60068ed61")]
 [assembly: System.Reflection.AssemblyProductAttribute("00 - acceso a base de datos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("00 - acceso a base de datos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
