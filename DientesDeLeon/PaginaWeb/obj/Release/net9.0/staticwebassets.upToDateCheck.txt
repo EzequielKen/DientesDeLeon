@@ -1,0 +1,457 @@
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jQuery.style.switcher.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\owl.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\owl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\scripts.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\violet.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery-ui.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.waypoints.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\waypoints.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\wow.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\media-queries.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\orange.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\js\site.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\error.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\faq.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\theme-color.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\validation.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\css\site.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\banner.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\parallax-scroll.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\font-awesome-all.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\video.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\jquery.fancybox.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\switcher-style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.nice-select.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\sidebar.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\favicon.ico
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\team.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\contact.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\service.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\process.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\fonts\icomoon.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\appointments.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\animate.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\wow.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\appear.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\team-details.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\map-helper.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\timePicker.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\pagenav.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\about.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery-migrate-3.0.0.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\blog-details.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\feature.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\chooseus.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.mCustomScrollbar.concat.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\news.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\bootstrap.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.fancybox.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\nice-select.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\page-title.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\animate.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\isotope.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\wow.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\gmaps.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\flaticon.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.waypoints.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\gallery.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\subscribe.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\pink.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\funfact.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\jquery-ui.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\timePicker.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\waypoints.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\cta.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.backstretch.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\service-details.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\crimson.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\bootstrap.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\solutions.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\testimonial.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\responsive.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\script.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.backstretch.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\elpath.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\nav-tool.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery-3.3.1.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\jquery.mCustomScrollbar.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\pricing.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\images\favicon.ico
+wwwroot\assets\css\animate.css
+wwwroot\assets\css\bootstrap.css
+wwwroot\assets\css\color.css
+wwwroot\assets\css\color\crimson.css
+wwwroot\assets\css\color\orange.css
+wwwroot\assets\css\color\pink.css
+wwwroot\assets\css\color\theme-color.css
+wwwroot\assets\css\color\violet.css
+wwwroot\assets\css\elpath.css
+wwwroot\assets\css\flaticon.css
+wwwroot\assets\css\font-awesome-all.css
+wwwroot\assets\css\jquery.fancybox.min.css
+wwwroot\assets\css\jquery-ui.css
+wwwroot\assets\css\module-css\about.css
+wwwroot\assets\css\module-css\appointments.css
+wwwroot\assets\css\module-css\banner.css
+wwwroot\assets\css\module-css\blog-details.css
+wwwroot\assets\css\module-css\chooseus.css
+wwwroot\assets\css\module-css\contact.css
+wwwroot\assets\css\module-css\cta.css
+wwwroot\assets\css\module-css\error.css
+wwwroot\assets\css\module-css\faq.css
+wwwroot\assets\css\module-css\feature.css
+wwwroot\assets\css\module-css\funfact.css
+wwwroot\assets\css\module-css\gallery.css
+wwwroot\assets\css\module-css\news.css
+wwwroot\assets\css\module-css\page-title.css
+wwwroot\assets\css\module-css\pricing.css
+wwwroot\assets\css\module-css\process.css
+wwwroot\assets\css\module-css\service.css
+wwwroot\assets\css\module-css\service-details.css
+wwwroot\assets\css\module-css\sidebar.css
+wwwroot\assets\css\module-css\solutions.css
+wwwroot\assets\css\module-css\subscribe.css
+wwwroot\assets\css\module-css\team.css
+wwwroot\assets\css\module-css\team-details.css
+wwwroot\assets\css\module-css\testimonial.css
+wwwroot\assets\css\module-css\video.css
+wwwroot\assets\css\nice-select.css
+wwwroot\assets\css\owl.css
+wwwroot\assets\css\responsive.css
+wwwroot\assets\css\rtl.css
+wwwroot\assets\css\style.css
+wwwroot\assets\css\switcher-style.css
+wwwroot\assets\css\timePicker.css
+wwwroot\assets\fonts\fa-brands-400.eot
+wwwroot\assets\fonts\fa-brands-400.ttf
+wwwroot\assets\fonts\fa-brands-400.woff
+wwwroot\assets\fonts\fa-brands-400.woff2
+wwwroot\assets\fonts\fa-light-300.woff
+wwwroot\assets\fonts\fa-light-300.woff2
+wwwroot\assets\fonts\fa-regular-400.eot
+wwwroot\assets\fonts\fa-regular-400.woff
+wwwroot\assets\fonts\fa-regular-400.woff2
+wwwroot\assets\fonts\fa-solid-900.woff
+wwwroot\assets\fonts\fa-solid-900.woff2
+wwwroot\assets\fonts\icomoon.eot
+wwwroot\assets\fonts\icomoon.svg
+wwwroot\assets\fonts\icomoon.ttf
+wwwroot\assets\fonts\icomoon.woff
+wwwroot\assets\images\background\appointment-bg.jpg
+wwwroot\assets\images\background\chooseus-bg.jpg
+wwwroot\assets\images\background\chooseus-bg-2.jpg
+wwwroot\assets\images\background\cta-bg.jpg
+wwwroot\assets\images\background\page-title.jpg
+wwwroot\assets\images\background\testimonial-bg.jpg
+wwwroot\assets\images\background\video-bg.jpg
+wwwroot\assets\images\banner\banner-1.jpg
+wwwroot\assets\images\banner\banner-img-1.png
+wwwroot\assets\images\banner\banner-img-2.png
+wwwroot\assets\images\banner\banner-img-3.png
+wwwroot\assets\images\banner\leon.png
+wwwroot\assets\images\dientes-leon-icono.png
+wwwroot\assets\images\favicon.ico
+wwwroot\assets\images\footer-logo.png
+wwwroot\assets\images\gallery\gallery-1.jpg
+wwwroot\assets\images\gallery\gallery-10.jpg
+wwwroot\assets\images\gallery\gallery-11.jpg
+wwwroot\assets\images\gallery\gallery-2.jpg
+wwwroot\assets\images\gallery\gallery-3.jpg
+wwwroot\assets\images\gallery\gallery-4.jpg
+wwwroot\assets\images\gallery\gallery-5.jpg
+wwwroot\assets\images\gallery\gallery-6.jpg
+wwwroot\assets\images\gallery\gallery-7.jpg
+wwwroot\assets\images\gallery\gallery-8.jpg
+wwwroot\assets\images\gallery\gallery-9.jpg
+wwwroot\assets\images\icons\cross-out.png
+wwwroot\assets\images\icons\error-1.png
+wwwroot\assets\images\icons\icon-1.png
+wwwroot\assets\images\icons\icon-2.png
+wwwroot\assets\images\icons\map-marker.png
+wwwroot\assets\images\icons\signature-1.png
+wwwroot\assets\images\icons\ui-icons_222222_256x240.png
+wwwroot\assets\images\icons\ui-icons_454545_256x240.png
+wwwroot\assets\images\icons\ui-icons_888888_256x240.png
+wwwroot\assets\images\logo.png
+wwwroot\assets\images\logo-2.png
+wwwroot\assets\images\news\comment-1.jpg
+wwwroot\assets\images\news\comment-2.jpg
+wwwroot\assets\images\news\gallery-1.jpg
+wwwroot\assets\images\news\gallery-2.jpg
+wwwroot\assets\images\news\gallery-3.jpg
+wwwroot\assets\images\news\gallery-4.jpg
+wwwroot\assets\images\news\gallery-5.jpg
+wwwroot\assets\images\news\gallery-6.jpg
+wwwroot\assets\images\news\news-1.jpg
+wwwroot\assets\images\news\news-10.jpg
+wwwroot\assets\images\news\news-11.jpg
+wwwroot\assets\images\news\news-12.jpg
+wwwroot\assets\images\news\news-13.jpg
+wwwroot\assets\images\news\news-2.jpg
+wwwroot\assets\images\news\news-3.jpg
+wwwroot\assets\images\news\news-4.jpg
+wwwroot\assets\images\news\news-5.jpg
+wwwroot\assets\images\news\news-6.jpg
+wwwroot\assets\images\news\news-7.jpg
+wwwroot\assets\images\news\news-8.jpg
+wwwroot\assets\images\news\news-9.jpg
+wwwroot\assets\images\news\post-1.jpg
+wwwroot\assets\images\news\post-2.jpg
+wwwroot\assets\images\news\post-3.jpg
+wwwroot\assets\images\resource\about-1.jpg
+wwwroot\assets\images\resource\about-1.png
+wwwroot\assets\images\resource\about-2.jpg
+wwwroot\assets\images\resource\about-3.jpg
+wwwroot\assets\images\resource\author-1.jpg
+wwwroot\assets\images\resource\contact-1.jpg
+wwwroot\assets\images\resource\cta-1.png
+wwwroot\assets\images\resource\faq-1.png
+wwwroot\assets\images\resource\leon.png
+wwwroot\assets\images\resource\process-1.jpg
+wwwroot\assets\images\resource\process-2.jpg
+wwwroot\assets\images\resource\process-3.jpg
+wwwroot\assets\images\resource\skills-1.jpg
+wwwroot\assets\images\resource\skills-2.jpg
+wwwroot\assets\images\resource\testimonial-1.png
+wwwroot\assets\images\resource\testimonial-2.png
+wwwroot\assets\images\resource\testimonial-3.png
+wwwroot\assets\images\resource\testimonial-4.png
+wwwroot\assets\images\resource\testimonial-5.png
+wwwroot\assets\images\resource\testimonial-6.png
+wwwroot\assets\images\resource\thumb-1.png
+wwwroot\assets\images\resource\thumb-2.png
+wwwroot\assets\images\resource\thumb-3.png
+wwwroot\assets\images\resource\thumb-4.png
+wwwroot\assets\images\resource\thumb-5.png
+wwwroot\assets\images\resource\thumb-6.png
+wwwroot\assets\images\resource\video-1.png
+wwwroot\assets\images\resource\video-2.png
+wwwroot\assets\images\resource\video-3.png
+wwwroot\assets\images\service\service-1.jpg
+wwwroot\assets\images\service\service-10.jpg
+wwwroot\assets\images\service\service-11.jpg
+wwwroot\assets\images\service\service-12.jpg
+wwwroot\assets\images\service\service-13.jpg
+wwwroot\assets\images\service\service-14.jpg
+wwwroot\assets\images\service\service-2.jpg
+wwwroot\assets\images\service\service-3.jpg
+wwwroot\assets\images\service\service-4.jpg
+wwwroot\assets\images\service\service-5.jpg
+wwwroot\assets\images\service\service-6.jpg
+wwwroot\assets\images\service\service-7.jpg
+wwwroot\assets\images\service\service-8.jpg
+wwwroot\assets\images\service\service-9.jpg
+wwwroot\assets\images\shape\shape-1.png
+wwwroot\assets\images\shape\shape-10.png
+wwwroot\assets\images\shape\shape-11.png
+wwwroot\assets\images\shape\shape-12.png
+wwwroot\assets\images\shape\shape-13.png
+wwwroot\assets\images\shape\shape-14.png
+wwwroot\assets\images\shape\shape-15.png
+wwwroot\assets\images\shape\shape-16.png
+wwwroot\assets\images\shape\shape-17.png
+wwwroot\assets\images\shape\shape-18.png
+wwwroot\assets\images\shape\shape-19.png
+wwwroot\assets\images\shape\shape-2.png
+wwwroot\assets\images\shape\shape-20.png
+wwwroot\assets\images\shape\shape-21.png
+wwwroot\assets\images\shape\shape-22.png
+wwwroot\assets\images\shape\shape-23.png
+wwwroot\assets\images\shape\shape-24.png
+wwwroot\assets\images\shape\shape-25.png
+wwwroot\assets\images\shape\shape-26.png
+wwwroot\assets\images\shape\shape-27.png
+wwwroot\assets\images\shape\shape-28.png
+wwwroot\assets\images\shape\shape-29.png
+wwwroot\assets\images\shape\shape-3.png
+wwwroot\assets\images\shape\shape-30.png
+wwwroot\assets\images\shape\shape-31.png
+wwwroot\assets\images\shape\shape-32.png
+wwwroot\assets\images\shape\shape-33.png
+wwwroot\assets\images\shape\shape-34.png
+wwwroot\assets\images\shape\shape-35.png
+wwwroot\assets\images\shape\shape-4.png
+wwwroot\assets\images\shape\shape-5.png
+wwwroot\assets\images\shape\shape-6.png
+wwwroot\assets\images\shape\shape-7.png
+wwwroot\assets\images\shape\shape-8.png
+wwwroot\assets\images\shape\shape-9.png
+wwwroot\assets\images\team\team-1.jpg
+wwwroot\assets\images\team\team-10.jpg
+wwwroot\assets\images\team\team-11.jpg
+wwwroot\assets\images\team\team-12.jpg
+wwwroot\assets\images\team\team-13.jpg
+wwwroot\assets\images\team\team-2.jpg
+wwwroot\assets\images\team\team-3.jpg
+wwwroot\assets\images\team\team-4.jpg
+wwwroot\assets\images\team\team-5.jpg
+wwwroot\assets\images\team\team-6.jpg
+wwwroot\assets\images\team\team-7.jpg
+wwwroot\assets\images\team\team-8.jpg
+wwwroot\assets\images\team\team-9.jpg
+wwwroot\assets\js\appear.js
+wwwroot\assets\js\bootstrap.min.js
+wwwroot\assets\js\gmaps.js
+wwwroot\assets\js\isotope.js
+wwwroot\assets\js\jquery.fancybox.js
+wwwroot\assets\js\jquery.js
+wwwroot\assets\js\jquery.nice-select.min.js
+wwwroot\assets\js\jQuery.style.switcher.min.js
+wwwroot\assets\js\jquery-ui.js
+wwwroot\assets\js\map-helper.js
+wwwroot\assets\js\nav-tool.js
+wwwroot\assets\js\owl.js
+wwwroot\assets\js\pagenav.js
+wwwroot\assets\js\parallax-scroll.js
+wwwroot\assets\js\script.js
+wwwroot\assets\js\timePicker.js
+wwwroot\assets\js\validation.js
+wwwroot\assets\js\wow.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Sistema\assets\css\animate.css
+wwwroot\Sistema\assets\css\jquery.mCustomScrollbar.min.css
+wwwroot\Sistema\assets\css\media-queries.css
+wwwroot\Sistema\assets\css\style.css
+wwwroot\Sistema\assets\ico\apple-touch-icon-114-precomposed.png
+wwwroot\Sistema\assets\ico\apple-touch-icon-144-precomposed.png
+wwwroot\Sistema\assets\ico\apple-touch-icon-57-precomposed.png
+wwwroot\Sistema\assets\ico\apple-touch-icon-72-precomposed.png
+wwwroot\Sistema\assets\ico\favicon.png
+wwwroot\Sistema\assets\js\jquery.backstretch.js
+wwwroot\Sistema\assets\js\jquery.backstretch.min.js
+wwwroot\Sistema\assets\js\jquery.mCustomScrollbar.concat.min.js
+wwwroot\Sistema\assets\js\jquery.waypoints.js
+wwwroot\Sistema\assets\js\jquery.waypoints.min.js
+wwwroot\Sistema\assets\js\jquery-3.3.1.min.js
+wwwroot\Sistema\assets\js\jquery-migrate-3.0.0.min.js
+wwwroot\Sistema\assets\js\scripts.js
+wwwroot\Sistema\assets\js\waypoints.js
+wwwroot\Sistema\assets\js\waypoints.min.js
+wwwroot\Sistema\assets\js\wow.js
+wwwroot\Sistema\assets\js\wow.min.js

@@ -44,6 +44,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseStaticFiles();
 // Orden correcto: Routing -> (CORS) -> Authentication -> Authorization
 app.UseRouting();
 

@@ -1,12 +1,74 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\shared\\_layaoutsistema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\shared\\_layaoutsistema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\controllers\\00 - landing\\landingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\controllers\\00 - landing\\landingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|c:\\users\\eze-k\\onedrive\\escritorio\\dientes de leon\\dientesdeleon\\dientesdeleon\\paginaweb\\views\\landing\\landingadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DADA2DE-D674-4186-86EF-FAEF4587F92A}|PaginaWeb\\PaginaWeb.csproj|solutionrelative:paginaweb\\views\\landing\\landingadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayaoutSistema.cshtml",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Shared\\_LayaoutSistema.cshtml",
+              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Shared\\_LayaoutSistema.cshtml",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Shared\\_LayaoutSistema.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Shared\\_LayaoutSistema.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAH8BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T06:50:24.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LandingController.cs",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\00 - Landing\\LandingController.cs",
+              "RelativeDocumentMoniker": "PaginaWeb\\Controllers\\00 - Landing\\LandingController.cs",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Controllers\\00 - Landing\\LandingController.cs",
+              "RelativeToolTip": "PaginaWeb\\Controllers\\00 - Landing\\LandingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:03:50.144Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LandingAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Landing\\LandingAdmin.cshtml",
+              "RelativeDocumentMoniker": "PaginaWeb\\Views\\Landing\\LandingAdmin.cshtml",
+              "ToolTip": "C:\\Users\\eze-k\\OneDrive\\Escritorio\\Dientes De Leon\\DientesDeLeon\\DientesDeLeon\\PaginaWeb\\Views\\Landing\\LandingAdmin.cshtml",
+              "RelativeToolTip": "PaginaWeb\\Views\\Landing\\LandingAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T07:04:03.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

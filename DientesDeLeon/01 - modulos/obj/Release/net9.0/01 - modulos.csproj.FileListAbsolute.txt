@@ -1,0 +1,16 @@
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\bin\Release\net9.0\01 - modulos.deps.json
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\bin\Release\net9.0\01 - modulos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\bin\Release\net9.0\01 - modulos.pdb
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\bin\Release\net9.0\00 - acceso a base de datos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\bin\Release\net9.0\00 - acceso a base de datos.pdb
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.csproj.AssemblyReference.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.AssemblyInfoInputs.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.AssemblyInfo.cs
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.csproj.CoreCompileInputs.cache
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.sourcelink.json
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - mod.DE20CF13.Up2Date
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\refint\01 - modulos.dll
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\01 - modulos.pdb
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\01 - modulos\obj\Release\net9.0\ref\01 - modulos.dll

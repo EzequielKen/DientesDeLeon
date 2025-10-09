@@ -1,376 +1,1537 @@
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gb-eng.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bo.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jQuery.style.switcher.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\owl.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\owl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\css\classic.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ag.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ec.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\au.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\st.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gb-wls.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ga.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\im.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\qa.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\index2.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts-more.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\eg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ck.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ms.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\animate.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\metismenu\js\metisMenu.min.js.map
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\scripts.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\violet.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery-ui.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.waypoints.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\waypoints.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\wow.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\yt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\iq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\pricing.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\lobibox.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\am.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\je.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\color\orange.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\km.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\banner.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\me.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ht.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\notification-custom-script.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\si.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\fk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ai.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sa.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ec.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\page-title.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ir.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\uz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tt.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\index3.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\light-theme.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mx.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\media-queries.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\orange.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\bootstrap.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kp.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\hk.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\js\site.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\error.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\faq.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\theme-color.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\validation.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ng.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\us.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\data-widgets.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\input-tags\js\tagsinput.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\gmaps\map-custom-script.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\variable-pie.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ck.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\funfact.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\bootstrap.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\fr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mp.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\images\favicon.ico
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\vu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\qa.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\css\site.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\banner.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\et.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\exporting.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\timePicker.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\wf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\um.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mt.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\hu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\variable-pie.js.map
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\parallax-scroll.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\font-awesome-all.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datatable\js\jquery.dataTables.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\pagenav.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\hk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\team-details.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\apexcharts-bundle\css\apexcharts.css
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\video.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\jquery.fancybox.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\smooth-scrollbar\smooth-scrollbar.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\nice-select.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\as.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\responsive.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ls.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\do.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\vg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\co.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\switcher-style.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.nice-select.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\sidebar.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\color\violet.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ba.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\wow.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\md.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ke.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\form-date-time-pickes.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\fj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\fo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\af.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\hr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\bootstrap.bundle.min.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\css\highcharts.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gb-wls.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fullcalendar\js\main.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mp.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ma.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\favicon.ico
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\va.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\hn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\je.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\js\legacy.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\nr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\it.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\script.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\st.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts-custom.script.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\team.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\contact.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pe.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\fonts\icomoon.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\id.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\process.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ao.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ru.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\simplebar\js\simplebar.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\nf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\subscribe.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\color\pink.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gb-nir.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\be.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ss.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\dj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\metismenu\css\metisMenu.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\as.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gw.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\jquery.nice-select.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\hn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\funnel3d.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ch.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\md.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ad.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\nz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\fr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lr.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gp.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\owl.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\service.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\process.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ba.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\chooseus.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\feature.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\fi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ky.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\br.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\css\grid-light.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\hr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\co.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\by.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cf.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\fonts\icomoon.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\th.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gb-nir.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\no.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cn.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\appointments.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\animate.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\wow.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sx.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\nu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\om.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\nl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ad.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ua.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\py.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\za.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pa.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ch.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ly.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\select2\js\select2.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\aq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\news.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ru.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\vc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\jo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\bootstrap.css
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\vc.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ni.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts-3d.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bs.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\appear.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\rw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\dm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\header-colors.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\hm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\icons-feather-icons.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\metismenu\js\metisMenu.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\uy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\jp.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\css\classic.date.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\jquery.fancybox.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\al.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\zw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\de.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ug.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\uy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\dk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\index4.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\messageboxes.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\li.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\cylinder.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ci.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ly.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\css\dark-unica.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\component-popovers-tooltips.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\faq.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\vn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\in.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\appointments.css
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\team-details.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\map-helper.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\timePicker.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\pagenav.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\dj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\nl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\nr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\jquery.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ci.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ee.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ne.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\dm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts-3d.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\es-ct.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\is.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cx.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\elpath.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\dk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\js\picker.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\zm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ao.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\about.css
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\nz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\eu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tv.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\easyPieChart\jquery.easypiechart.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bd.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\about.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery-migrate-3.0.0.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\eu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\cta.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\th.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ki.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\jquery-ui.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\vi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\jm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ir.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\color\crimson.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ar.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ae.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ht.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\funnel3d.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\gmaps.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gp.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\blog-details.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\feature.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\chooseus.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ag.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\testimonial.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\er.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ie.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\az.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ge.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\jm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\select2\css\select2.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\eg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gb-sct.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\yt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\zm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tm.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tn.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bi.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\chartjs\js\chartjs-custom.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ua.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sa.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\chartjs\js\Chart.extension.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\jQuery.style.switcher.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\todo.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.mCustomScrollbar.concat.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\news.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ws.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\it.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\do.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\nc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\appear.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\app-chat-box.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lv.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\bootstrap.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.fancybox.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\nice-select.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ph.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ms.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\no.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\css\lobibox.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ie.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\zw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gb-eng.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\my.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\apexcharts-bundle\js\apexcharts.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\peity\jquery.peity.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\in.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\solid-gauge.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ga.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mw.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\page-title.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\animate.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\isotope.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\rtl.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\wow.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\gmaps.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\solutions.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sx.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\za.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\rw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\to.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\font-awesome-all.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ky.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\apexcharts-bundle\js\apex-custom.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\de.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cx.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\nu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\id.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\br.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\td.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\es.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\km.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\va.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\to.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\er.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ax.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\rs.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\jquery-ui.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\owl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\re.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\select2\css\select2-bootstrap4.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\isotope.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\az.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\accessibility.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pe.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\parallax-scroll.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\accessibility.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\notifications.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ai.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\flaticon.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\se.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gs.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\es.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\af.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\rs.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\chartjs\js\Chart.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\un.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\blog-details.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\gallery.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gs.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.waypoints.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\iq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\app-emailbox.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ar.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\om.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\at.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\lt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\team.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ni.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ne.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\gallery.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\subscribe.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\pink.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\funfact.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ro.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\exporting.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ng.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\jo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\na.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\pace.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\switcher-style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\so.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\images\icons\search.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\me.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\export-data.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\fj.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\wf.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\jquery-ui.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\na.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\by.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\css\classic.time.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gq.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\la.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\timePicker.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\sidebar.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\color.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\fk.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\timePicker.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\waypoints.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kp.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\solid-gauge.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\np.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\js\picker.date.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\contact.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\css\sand-signika.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\simplebar\css\simplebar.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ug.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\py.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\cylinder.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ss.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\color\theme-color.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bs.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ps.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\form-file-upload.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\map-helper.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\bb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\validation.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\bootstrap.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lk.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pa.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\pace.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\fm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ca.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fullcalendar\js\main.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\css\lobibox.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\et.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\metismenu\css\metisMenu.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\app-emailread.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ls.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jvectormap.custom.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\tk.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\dist\additional-methods.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\cta.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ph.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\fi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ye.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ee.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\re.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ml.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\jp.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery-validation\LICENSE.md
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.backstretch.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\service-details.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\color\crimson.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\bootstrap.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\so.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\fonts\boxicons.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\lobibox.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\service.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ki.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fullcalendar\css\main.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\dz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\error.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\bootstrap.bundle.min.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\messageboxes.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\form-select2.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\css\highcharts-white.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\highcharts-more.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ws.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\td.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ma.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\eh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\datetimepicker\js\picker.time.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\be.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ke.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\il.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\un.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\dz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\li.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\io.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\am.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ge.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\semi-dark.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\um.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ro.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\highcharts\js\export-data.js.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\nc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\pw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\tg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cu.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\dist\jquery.min.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\solutions.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\jquery.fancybox.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\js\nav-tool.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ca.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\sg.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\bootstrap-extended.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\is.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\uz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\aw.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\testimonial.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\jquery.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\responsive.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\cz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mc.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\al.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\icons.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\kz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cz.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\app.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\at.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\hu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ve.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\service-details.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mt.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\np.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\script.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\my.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gy.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\si.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ve.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\aw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ye.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\nf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\dark-theme.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\module-css\video.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mk.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery.backstretch.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\elpath.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\nav-tool.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\eh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\au.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\kg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\io.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\style.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\us.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\fonts\LineIcons.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\nicescroll\js\jquery.nicescroll.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\fo.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\fullcalendar\css\main.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\vn.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\aq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gh.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\input-tags\css\tagsinput.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\index.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\ax.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gb-sct.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\im.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\pm.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\la.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\js\jquery-3.3.1.min.js
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Sistema\assets\css\jquery.mCustomScrollbar.min.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\vg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\mq.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ps.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\hm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bv.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\js\table-datatable.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ae.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\Pagina\assets\css\flaticon.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\lr.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sg.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\es-ct.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bl.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cn.svg
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\css\module-css\pricing.css
-C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\images\favicon.ico
-wwwroot\assets\css\animate.css
-wwwroot\assets\css\bootstrap.css
-wwwroot\assets\css\color.css
-wwwroot\assets\css\color\crimson.css
-wwwroot\assets\css\color\orange.css
-wwwroot\assets\css\color\pink.css
-wwwroot\assets\css\color\theme-color.css
-wwwroot\assets\css\color\violet.css
-wwwroot\assets\css\elpath.css
-wwwroot\assets\css\flaticon.css
-wwwroot\assets\css\font-awesome-all.css
-wwwroot\assets\css\jquery.fancybox.min.css
-wwwroot\assets\css\jquery-ui.css
-wwwroot\assets\css\module-css\about.css
-wwwroot\assets\css\module-css\appointments.css
-wwwroot\assets\css\module-css\banner.css
-wwwroot\assets\css\module-css\blog-details.css
-wwwroot\assets\css\module-css\chooseus.css
-wwwroot\assets\css\module-css\contact.css
-wwwroot\assets\css\module-css\cta.css
-wwwroot\assets\css\module-css\error.css
-wwwroot\assets\css\module-css\faq.css
-wwwroot\assets\css\module-css\feature.css
-wwwroot\assets\css\module-css\funfact.css
-wwwroot\assets\css\module-css\gallery.css
-wwwroot\assets\css\module-css\news.css
-wwwroot\assets\css\module-css\page-title.css
-wwwroot\assets\css\module-css\pricing.css
-wwwroot\assets\css\module-css\process.css
-wwwroot\assets\css\module-css\service.css
-wwwroot\assets\css\module-css\service-details.css
-wwwroot\assets\css\module-css\sidebar.css
-wwwroot\assets\css\module-css\solutions.css
-wwwroot\assets\css\module-css\subscribe.css
-wwwroot\assets\css\module-css\team.css
-wwwroot\assets\css\module-css\team-details.css
-wwwroot\assets\css\module-css\testimonial.css
-wwwroot\assets\css\module-css\video.css
-wwwroot\assets\css\nice-select.css
-wwwroot\assets\css\owl.css
-wwwroot\assets\css\responsive.css
-wwwroot\assets\css\rtl.css
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mf.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\ml.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\mx.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\fm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\gw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\cw.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\plugins\notifications\js\notifications.js
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\sm.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\vu.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\vi.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\bb.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\4x3\gd.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\se.svg
+C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\PaginaWeb\wwwroot\assets\flags\1x1\il.svg
+wwwroot\assets\css\bootstrap.min.css
+wwwroot\assets\css\bootstrap.min.css.map
+wwwroot\assets\css\bootstrap-extended.css
+wwwroot\assets\css\dark-theme.css
+wwwroot\assets\css\header-colors.css
+wwwroot\assets\css\icons.css
+wwwroot\assets\css\light-theme.css
+wwwroot\assets\css\pace.min.css
+wwwroot\assets\css\semi-dark.css
 wwwroot\assets\css\style.css
-wwwroot\assets\css\switcher-style.css
-wwwroot\assets\css\timePicker.css
-wwwroot\assets\fonts\fa-brands-400.eot
-wwwroot\assets\fonts\fa-brands-400.ttf
-wwwroot\assets\fonts\fa-brands-400.woff
-wwwroot\assets\fonts\fa-brands-400.woff2
-wwwroot\assets\fonts\fa-light-300.woff
-wwwroot\assets\fonts\fa-light-300.woff2
-wwwroot\assets\fonts\fa-regular-400.eot
-wwwroot\assets\fonts\fa-regular-400.woff
-wwwroot\assets\fonts\fa-regular-400.woff2
-wwwroot\assets\fonts\fa-solid-900.woff
-wwwroot\assets\fonts\fa-solid-900.woff2
-wwwroot\assets\fonts\icomoon.eot
-wwwroot\assets\fonts\icomoon.svg
-wwwroot\assets\fonts\icomoon.ttf
-wwwroot\assets\fonts\icomoon.woff
-wwwroot\assets\images\background\appointment-bg.jpg
-wwwroot\assets\images\background\chooseus-bg.jpg
-wwwroot\assets\images\background\chooseus-bg-2.jpg
-wwwroot\assets\images\background\cta-bg.jpg
-wwwroot\assets\images\background\page-title.jpg
-wwwroot\assets\images\background\testimonial-bg.jpg
-wwwroot\assets\images\background\video-bg.jpg
-wwwroot\assets\images\banner\banner-1.jpg
-wwwroot\assets\images\banner\banner-img-1.png
-wwwroot\assets\images\banner\banner-img-2.png
-wwwroot\assets\images\banner\banner-img-3.png
-wwwroot\assets\images\banner\leon.png
-wwwroot\assets\images\dientes-leon-icono.png
-wwwroot\assets\images\favicon.ico
-wwwroot\assets\images\footer-logo.png
-wwwroot\assets\images\gallery\gallery-1.jpg
-wwwroot\assets\images\gallery\gallery-10.jpg
-wwwroot\assets\images\gallery\gallery-11.jpg
-wwwroot\assets\images\gallery\gallery-2.jpg
-wwwroot\assets\images\gallery\gallery-3.jpg
-wwwroot\assets\images\gallery\gallery-4.jpg
-wwwroot\assets\images\gallery\gallery-5.jpg
-wwwroot\assets\images\gallery\gallery-6.jpg
-wwwroot\assets\images\gallery\gallery-7.jpg
-wwwroot\assets\images\gallery\gallery-8.jpg
-wwwroot\assets\images\gallery\gallery-9.jpg
-wwwroot\assets\images\icons\cross-out.png
-wwwroot\assets\images\icons\error-1.png
-wwwroot\assets\images\icons\icon-1.png
-wwwroot\assets\images\icons\icon-2.png
-wwwroot\assets\images\icons\map-marker.png
-wwwroot\assets\images\icons\signature-1.png
-wwwroot\assets\images\icons\ui-icons_222222_256x240.png
-wwwroot\assets\images\icons\ui-icons_454545_256x240.png
-wwwroot\assets\images\icons\ui-icons_888888_256x240.png
-wwwroot\assets\images\logo.png
-wwwroot\assets\images\logo-2.png
-wwwroot\assets\images\news\comment-1.jpg
-wwwroot\assets\images\news\comment-2.jpg
-wwwroot\assets\images\news\gallery-1.jpg
-wwwroot\assets\images\news\gallery-2.jpg
-wwwroot\assets\images\news\gallery-3.jpg
-wwwroot\assets\images\news\gallery-4.jpg
-wwwroot\assets\images\news\gallery-5.jpg
-wwwroot\assets\images\news\gallery-6.jpg
-wwwroot\assets\images\news\news-1.jpg
-wwwroot\assets\images\news\news-10.jpg
-wwwroot\assets\images\news\news-11.jpg
-wwwroot\assets\images\news\news-12.jpg
-wwwroot\assets\images\news\news-13.jpg
-wwwroot\assets\images\news\news-2.jpg
-wwwroot\assets\images\news\news-3.jpg
-wwwroot\assets\images\news\news-4.jpg
-wwwroot\assets\images\news\news-5.jpg
-wwwroot\assets\images\news\news-6.jpg
-wwwroot\assets\images\news\news-7.jpg
-wwwroot\assets\images\news\news-8.jpg
-wwwroot\assets\images\news\news-9.jpg
-wwwroot\assets\images\news\post-1.jpg
-wwwroot\assets\images\news\post-2.jpg
-wwwroot\assets\images\news\post-3.jpg
-wwwroot\assets\images\resource\about-1.jpg
-wwwroot\assets\images\resource\about-1.png
-wwwroot\assets\images\resource\about-2.jpg
-wwwroot\assets\images\resource\about-3.jpg
-wwwroot\assets\images\resource\author-1.jpg
-wwwroot\assets\images\resource\contact-1.jpg
-wwwroot\assets\images\resource\cta-1.png
-wwwroot\assets\images\resource\faq-1.png
-wwwroot\assets\images\resource\leon.png
-wwwroot\assets\images\resource\process-1.jpg
-wwwroot\assets\images\resource\process-2.jpg
-wwwroot\assets\images\resource\process-3.jpg
-wwwroot\assets\images\resource\skills-1.jpg
-wwwroot\assets\images\resource\skills-2.jpg
-wwwroot\assets\images\resource\testimonial-1.png
-wwwroot\assets\images\resource\testimonial-2.png
-wwwroot\assets\images\resource\testimonial-3.png
-wwwroot\assets\images\resource\testimonial-4.png
-wwwroot\assets\images\resource\testimonial-5.png
-wwwroot\assets\images\resource\testimonial-6.png
-wwwroot\assets\images\resource\thumb-1.png
-wwwroot\assets\images\resource\thumb-2.png
-wwwroot\assets\images\resource\thumb-3.png
-wwwroot\assets\images\resource\thumb-4.png
-wwwroot\assets\images\resource\thumb-5.png
-wwwroot\assets\images\resource\thumb-6.png
-wwwroot\assets\images\resource\video-1.png
-wwwroot\assets\images\resource\video-2.png
-wwwroot\assets\images\resource\video-3.png
-wwwroot\assets\images\service\service-1.jpg
-wwwroot\assets\images\service\service-10.jpg
-wwwroot\assets\images\service\service-11.jpg
-wwwroot\assets\images\service\service-12.jpg
-wwwroot\assets\images\service\service-13.jpg
-wwwroot\assets\images\service\service-14.jpg
-wwwroot\assets\images\service\service-2.jpg
-wwwroot\assets\images\service\service-3.jpg
-wwwroot\assets\images\service\service-4.jpg
-wwwroot\assets\images\service\service-5.jpg
-wwwroot\assets\images\service\service-6.jpg
-wwwroot\assets\images\service\service-7.jpg
-wwwroot\assets\images\service\service-8.jpg
-wwwroot\assets\images\service\service-9.jpg
-wwwroot\assets\images\shape\shape-1.png
-wwwroot\assets\images\shape\shape-10.png
-wwwroot\assets\images\shape\shape-11.png
-wwwroot\assets\images\shape\shape-12.png
-wwwroot\assets\images\shape\shape-13.png
-wwwroot\assets\images\shape\shape-14.png
-wwwroot\assets\images\shape\shape-15.png
-wwwroot\assets\images\shape\shape-16.png
-wwwroot\assets\images\shape\shape-17.png
-wwwroot\assets\images\shape\shape-18.png
-wwwroot\assets\images\shape\shape-19.png
-wwwroot\assets\images\shape\shape-2.png
-wwwroot\assets\images\shape\shape-20.png
-wwwroot\assets\images\shape\shape-21.png
-wwwroot\assets\images\shape\shape-22.png
-wwwroot\assets\images\shape\shape-23.png
-wwwroot\assets\images\shape\shape-24.png
-wwwroot\assets\images\shape\shape-25.png
-wwwroot\assets\images\shape\shape-26.png
-wwwroot\assets\images\shape\shape-27.png
-wwwroot\assets\images\shape\shape-28.png
-wwwroot\assets\images\shape\shape-29.png
-wwwroot\assets\images\shape\shape-3.png
-wwwroot\assets\images\shape\shape-30.png
-wwwroot\assets\images\shape\shape-31.png
-wwwroot\assets\images\shape\shape-32.png
-wwwroot\assets\images\shape\shape-33.png
-wwwroot\assets\images\shape\shape-34.png
-wwwroot\assets\images\shape\shape-35.png
-wwwroot\assets\images\shape\shape-4.png
-wwwroot\assets\images\shape\shape-5.png
-wwwroot\assets\images\shape\shape-6.png
-wwwroot\assets\images\shape\shape-7.png
-wwwroot\assets\images\shape\shape-8.png
-wwwroot\assets\images\shape\shape-9.png
-wwwroot\assets\images\team\team-1.jpg
-wwwroot\assets\images\team\team-10.jpg
-wwwroot\assets\images\team\team-11.jpg
-wwwroot\assets\images\team\team-12.jpg
-wwwroot\assets\images\team\team-13.jpg
-wwwroot\assets\images\team\team-2.jpg
-wwwroot\assets\images\team\team-3.jpg
-wwwroot\assets\images\team\team-4.jpg
-wwwroot\assets\images\team\team-5.jpg
-wwwroot\assets\images\team\team-6.jpg
-wwwroot\assets\images\team\team-7.jpg
-wwwroot\assets\images\team\team-8.jpg
-wwwroot\assets\images\team\team-9.jpg
-wwwroot\assets\js\appear.js
-wwwroot\assets\js\bootstrap.min.js
-wwwroot\assets\js\gmaps.js
-wwwroot\assets\js\isotope.js
-wwwroot\assets\js\jquery.fancybox.js
-wwwroot\assets\js\jquery.js
-wwwroot\assets\js\jquery.nice-select.min.js
-wwwroot\assets\js\jQuery.style.switcher.min.js
-wwwroot\assets\js\jquery-ui.js
-wwwroot\assets\js\map-helper.js
-wwwroot\assets\js\nav-tool.js
-wwwroot\assets\js\owl.js
-wwwroot\assets\js\pagenav.js
-wwwroot\assets\js\parallax-scroll.js
-wwwroot\assets\js\script.js
-wwwroot\assets\js\timePicker.js
-wwwroot\assets\js\validation.js
-wwwroot\assets\js\wow.js
+wwwroot\assets\flags\1x1\ad.svg
+wwwroot\assets\flags\1x1\ae.svg
+wwwroot\assets\flags\1x1\af.svg
+wwwroot\assets\flags\1x1\ag.svg
+wwwroot\assets\flags\1x1\ai.svg
+wwwroot\assets\flags\1x1\al.svg
+wwwroot\assets\flags\1x1\am.svg
+wwwroot\assets\flags\1x1\ao.svg
+wwwroot\assets\flags\1x1\aq.svg
+wwwroot\assets\flags\1x1\ar.svg
+wwwroot\assets\flags\1x1\as.svg
+wwwroot\assets\flags\1x1\at.svg
+wwwroot\assets\flags\1x1\au.svg
+wwwroot\assets\flags\1x1\aw.svg
+wwwroot\assets\flags\1x1\ax.svg
+wwwroot\assets\flags\1x1\az.svg
+wwwroot\assets\flags\1x1\ba.svg
+wwwroot\assets\flags\1x1\bb.svg
+wwwroot\assets\flags\1x1\bd.svg
+wwwroot\assets\flags\1x1\be.svg
+wwwroot\assets\flags\1x1\bf.svg
+wwwroot\assets\flags\1x1\bg.svg
+wwwroot\assets\flags\1x1\bh.svg
+wwwroot\assets\flags\1x1\bi.svg
+wwwroot\assets\flags\1x1\bj.svg
+wwwroot\assets\flags\1x1\bl.svg
+wwwroot\assets\flags\1x1\bm.svg
+wwwroot\assets\flags\1x1\bn.svg
+wwwroot\assets\flags\1x1\bo.svg
+wwwroot\assets\flags\1x1\bq.svg
+wwwroot\assets\flags\1x1\br.svg
+wwwroot\assets\flags\1x1\bs.svg
+wwwroot\assets\flags\1x1\bt.svg
+wwwroot\assets\flags\1x1\bv.svg
+wwwroot\assets\flags\1x1\bw.svg
+wwwroot\assets\flags\1x1\by.svg
+wwwroot\assets\flags\1x1\bz.svg
+wwwroot\assets\flags\1x1\ca.svg
+wwwroot\assets\flags\1x1\cc.svg
+wwwroot\assets\flags\1x1\cd.svg
+wwwroot\assets\flags\1x1\cf.svg
+wwwroot\assets\flags\1x1\cg.svg
+wwwroot\assets\flags\1x1\ch.svg
+wwwroot\assets\flags\1x1\ci.svg
+wwwroot\assets\flags\1x1\ck.svg
+wwwroot\assets\flags\1x1\cl.svg
+wwwroot\assets\flags\1x1\cm.svg
+wwwroot\assets\flags\1x1\cn.svg
+wwwroot\assets\flags\1x1\co.svg
+wwwroot\assets\flags\1x1\cr.svg
+wwwroot\assets\flags\1x1\cu.svg
+wwwroot\assets\flags\1x1\cv.svg
+wwwroot\assets\flags\1x1\cw.svg
+wwwroot\assets\flags\1x1\cx.svg
+wwwroot\assets\flags\1x1\cy.svg
+wwwroot\assets\flags\1x1\cz.svg
+wwwroot\assets\flags\1x1\de.svg
+wwwroot\assets\flags\1x1\dj.svg
+wwwroot\assets\flags\1x1\dk.svg
+wwwroot\assets\flags\1x1\dm.svg
+wwwroot\assets\flags\1x1\do.svg
+wwwroot\assets\flags\1x1\dz.svg
+wwwroot\assets\flags\1x1\ec.svg
+wwwroot\assets\flags\1x1\ee.svg
+wwwroot\assets\flags\1x1\eg.svg
+wwwroot\assets\flags\1x1\eh.svg
+wwwroot\assets\flags\1x1\er.svg
+wwwroot\assets\flags\1x1\es.svg
+wwwroot\assets\flags\1x1\es-ct.svg
+wwwroot\assets\flags\1x1\et.svg
+wwwroot\assets\flags\1x1\eu.svg
+wwwroot\assets\flags\1x1\fi.svg
+wwwroot\assets\flags\1x1\fj.svg
+wwwroot\assets\flags\1x1\fk.svg
+wwwroot\assets\flags\1x1\fm.svg
+wwwroot\assets\flags\1x1\fo.svg
+wwwroot\assets\flags\1x1\fr.svg
+wwwroot\assets\flags\1x1\ga.svg
+wwwroot\assets\flags\1x1\gb.svg
+wwwroot\assets\flags\1x1\gb-eng.svg
+wwwroot\assets\flags\1x1\gb-nir.svg
+wwwroot\assets\flags\1x1\gb-sct.svg
+wwwroot\assets\flags\1x1\gb-wls.svg
+wwwroot\assets\flags\1x1\gd.svg
+wwwroot\assets\flags\1x1\ge.svg
+wwwroot\assets\flags\1x1\gf.svg
+wwwroot\assets\flags\1x1\gg.svg
+wwwroot\assets\flags\1x1\gh.svg
+wwwroot\assets\flags\1x1\gi.svg
+wwwroot\assets\flags\1x1\gl.svg
+wwwroot\assets\flags\1x1\gm.svg
+wwwroot\assets\flags\1x1\gn.svg
+wwwroot\assets\flags\1x1\gp.svg
+wwwroot\assets\flags\1x1\gq.svg
+wwwroot\assets\flags\1x1\gr.svg
+wwwroot\assets\flags\1x1\gs.svg
+wwwroot\assets\flags\1x1\gt.svg
+wwwroot\assets\flags\1x1\gu.svg
+wwwroot\assets\flags\1x1\gw.svg
+wwwroot\assets\flags\1x1\gy.svg
+wwwroot\assets\flags\1x1\hk.svg
+wwwroot\assets\flags\1x1\hm.svg
+wwwroot\assets\flags\1x1\hn.svg
+wwwroot\assets\flags\1x1\hr.svg
+wwwroot\assets\flags\1x1\ht.svg
+wwwroot\assets\flags\1x1\hu.svg
+wwwroot\assets\flags\1x1\id.svg
+wwwroot\assets\flags\1x1\ie.svg
+wwwroot\assets\flags\1x1\il.svg
+wwwroot\assets\flags\1x1\im.svg
+wwwroot\assets\flags\1x1\in.svg
+wwwroot\assets\flags\1x1\io.svg
+wwwroot\assets\flags\1x1\iq.svg
+wwwroot\assets\flags\1x1\ir.svg
+wwwroot\assets\flags\1x1\is.svg
+wwwroot\assets\flags\1x1\it.svg
+wwwroot\assets\flags\1x1\je.svg
+wwwroot\assets\flags\1x1\jm.svg
+wwwroot\assets\flags\1x1\jo.svg
+wwwroot\assets\flags\1x1\jp.svg
+wwwroot\assets\flags\1x1\ke.svg
+wwwroot\assets\flags\1x1\kg.svg
+wwwroot\assets\flags\1x1\kh.svg
+wwwroot\assets\flags\1x1\ki.svg
+wwwroot\assets\flags\1x1\km.svg
+wwwroot\assets\flags\1x1\kn.svg
+wwwroot\assets\flags\1x1\kp.svg
+wwwroot\assets\flags\1x1\kr.svg
+wwwroot\assets\flags\1x1\kw.svg
+wwwroot\assets\flags\1x1\ky.svg
+wwwroot\assets\flags\1x1\kz.svg
+wwwroot\assets\flags\1x1\la.svg
+wwwroot\assets\flags\1x1\lb.svg
+wwwroot\assets\flags\1x1\lc.svg
+wwwroot\assets\flags\1x1\li.svg
+wwwroot\assets\flags\1x1\lk.svg
+wwwroot\assets\flags\1x1\lr.svg
+wwwroot\assets\flags\1x1\ls.svg
+wwwroot\assets\flags\1x1\lt.svg
+wwwroot\assets\flags\1x1\lu.svg
+wwwroot\assets\flags\1x1\lv.svg
+wwwroot\assets\flags\1x1\ly.svg
+wwwroot\assets\flags\1x1\ma.svg
+wwwroot\assets\flags\1x1\mc.svg
+wwwroot\assets\flags\1x1\md.svg
+wwwroot\assets\flags\1x1\me.svg
+wwwroot\assets\flags\1x1\mf.svg
+wwwroot\assets\flags\1x1\mg.svg
+wwwroot\assets\flags\1x1\mh.svg
+wwwroot\assets\flags\1x1\mk.svg
+wwwroot\assets\flags\1x1\ml.svg
+wwwroot\assets\flags\1x1\mm.svg
+wwwroot\assets\flags\1x1\mn.svg
+wwwroot\assets\flags\1x1\mo.svg
+wwwroot\assets\flags\1x1\mp.svg
+wwwroot\assets\flags\1x1\mq.svg
+wwwroot\assets\flags\1x1\mr.svg
+wwwroot\assets\flags\1x1\ms.svg
+wwwroot\assets\flags\1x1\mt.svg
+wwwroot\assets\flags\1x1\mu.svg
+wwwroot\assets\flags\1x1\mv.svg
+wwwroot\assets\flags\1x1\mw.svg
+wwwroot\assets\flags\1x1\mx.svg
+wwwroot\assets\flags\1x1\my.svg
+wwwroot\assets\flags\1x1\mz.svg
+wwwroot\assets\flags\1x1\na.svg
+wwwroot\assets\flags\1x1\nc.svg
+wwwroot\assets\flags\1x1\ne.svg
+wwwroot\assets\flags\1x1\nf.svg
+wwwroot\assets\flags\1x1\ng.svg
+wwwroot\assets\flags\1x1\ni.svg
+wwwroot\assets\flags\1x1\nl.svg
+wwwroot\assets\flags\1x1\no.svg
+wwwroot\assets\flags\1x1\np.svg
+wwwroot\assets\flags\1x1\nr.svg
+wwwroot\assets\flags\1x1\nu.svg
+wwwroot\assets\flags\1x1\nz.svg
+wwwroot\assets\flags\1x1\om.svg
+wwwroot\assets\flags\1x1\pa.svg
+wwwroot\assets\flags\1x1\pe.svg
+wwwroot\assets\flags\1x1\pf.svg
+wwwroot\assets\flags\1x1\pg.svg
+wwwroot\assets\flags\1x1\ph.svg
+wwwroot\assets\flags\1x1\pk.svg
+wwwroot\assets\flags\1x1\pl.svg
+wwwroot\assets\flags\1x1\pm.svg
+wwwroot\assets\flags\1x1\pn.svg
+wwwroot\assets\flags\1x1\pr.svg
+wwwroot\assets\flags\1x1\ps.svg
+wwwroot\assets\flags\1x1\pt.svg
+wwwroot\assets\flags\1x1\pw.svg
+wwwroot\assets\flags\1x1\py.svg
+wwwroot\assets\flags\1x1\qa.svg
+wwwroot\assets\flags\1x1\re.svg
+wwwroot\assets\flags\1x1\ro.svg
+wwwroot\assets\flags\1x1\rs.svg
+wwwroot\assets\flags\1x1\ru.svg
+wwwroot\assets\flags\1x1\rw.svg
+wwwroot\assets\flags\1x1\sa.svg
+wwwroot\assets\flags\1x1\sb.svg
+wwwroot\assets\flags\1x1\sc.svg
+wwwroot\assets\flags\1x1\sd.svg
+wwwroot\assets\flags\1x1\se.svg
+wwwroot\assets\flags\1x1\sg.svg
+wwwroot\assets\flags\1x1\sh.svg
+wwwroot\assets\flags\1x1\si.svg
+wwwroot\assets\flags\1x1\sj.svg
+wwwroot\assets\flags\1x1\sk.svg
+wwwroot\assets\flags\1x1\sl.svg
+wwwroot\assets\flags\1x1\sm.svg
+wwwroot\assets\flags\1x1\sn.svg
+wwwroot\assets\flags\1x1\so.svg
+wwwroot\assets\flags\1x1\sr.svg
+wwwroot\assets\flags\1x1\ss.svg
+wwwroot\assets\flags\1x1\st.svg
+wwwroot\assets\flags\1x1\sv.svg
+wwwroot\assets\flags\1x1\sx.svg
+wwwroot\assets\flags\1x1\sy.svg
+wwwroot\assets\flags\1x1\sz.svg
+wwwroot\assets\flags\1x1\tc.svg
+wwwroot\assets\flags\1x1\td.svg
+wwwroot\assets\flags\1x1\tf.svg
+wwwroot\assets\flags\1x1\tg.svg
+wwwroot\assets\flags\1x1\th.svg
+wwwroot\assets\flags\1x1\tj.svg
+wwwroot\assets\flags\1x1\tk.svg
+wwwroot\assets\flags\1x1\tl.svg
+wwwroot\assets\flags\1x1\tm.svg
+wwwroot\assets\flags\1x1\tn.svg
+wwwroot\assets\flags\1x1\to.svg
+wwwroot\assets\flags\1x1\tr.svg
+wwwroot\assets\flags\1x1\tt.svg
+wwwroot\assets\flags\1x1\tv.svg
+wwwroot\assets\flags\1x1\tw.svg
+wwwroot\assets\flags\1x1\tz.svg
+wwwroot\assets\flags\1x1\ua.svg
+wwwroot\assets\flags\1x1\ug.svg
+wwwroot\assets\flags\1x1\um.svg
+wwwroot\assets\flags\1x1\un.svg
+wwwroot\assets\flags\1x1\us.svg
+wwwroot\assets\flags\1x1\uy.svg
+wwwroot\assets\flags\1x1\uz.svg
+wwwroot\assets\flags\1x1\va.svg
+wwwroot\assets\flags\1x1\vc.svg
+wwwroot\assets\flags\1x1\ve.svg
+wwwroot\assets\flags\1x1\vg.svg
+wwwroot\assets\flags\1x1\vi.svg
+wwwroot\assets\flags\1x1\vn.svg
+wwwroot\assets\flags\1x1\vu.svg
+wwwroot\assets\flags\1x1\wf.svg
+wwwroot\assets\flags\1x1\ws.svg
+wwwroot\assets\flags\1x1\ye.svg
+wwwroot\assets\flags\1x1\yt.svg
+wwwroot\assets\flags\1x1\za.svg
+wwwroot\assets\flags\1x1\zm.svg
+wwwroot\assets\flags\1x1\zw.svg
+wwwroot\assets\flags\4x3\ad.svg
+wwwroot\assets\flags\4x3\ae.svg
+wwwroot\assets\flags\4x3\af.svg
+wwwroot\assets\flags\4x3\ag.svg
+wwwroot\assets\flags\4x3\ai.svg
+wwwroot\assets\flags\4x3\al.svg
+wwwroot\assets\flags\4x3\am.svg
+wwwroot\assets\flags\4x3\ao.svg
+wwwroot\assets\flags\4x3\aq.svg
+wwwroot\assets\flags\4x3\ar.svg
+wwwroot\assets\flags\4x3\as.svg
+wwwroot\assets\flags\4x3\at.svg
+wwwroot\assets\flags\4x3\au.svg
+wwwroot\assets\flags\4x3\aw.svg
+wwwroot\assets\flags\4x3\ax.svg
+wwwroot\assets\flags\4x3\az.svg
+wwwroot\assets\flags\4x3\ba.svg
+wwwroot\assets\flags\4x3\bb.svg
+wwwroot\assets\flags\4x3\bd.svg
+wwwroot\assets\flags\4x3\be.svg
+wwwroot\assets\flags\4x3\bf.svg
+wwwroot\assets\flags\4x3\bg.svg
+wwwroot\assets\flags\4x3\bh.svg
+wwwroot\assets\flags\4x3\bi.svg
+wwwroot\assets\flags\4x3\bj.svg
+wwwroot\assets\flags\4x3\bl.svg
+wwwroot\assets\flags\4x3\bm.svg
+wwwroot\assets\flags\4x3\bn.svg
+wwwroot\assets\flags\4x3\bo.svg
+wwwroot\assets\flags\4x3\bq.svg
+wwwroot\assets\flags\4x3\br.svg
+wwwroot\assets\flags\4x3\bs.svg
+wwwroot\assets\flags\4x3\bt.svg
+wwwroot\assets\flags\4x3\bv.svg
+wwwroot\assets\flags\4x3\bw.svg
+wwwroot\assets\flags\4x3\by.svg
+wwwroot\assets\flags\4x3\bz.svg
+wwwroot\assets\flags\4x3\ca.svg
+wwwroot\assets\flags\4x3\cc.svg
+wwwroot\assets\flags\4x3\cd.svg
+wwwroot\assets\flags\4x3\cf.svg
+wwwroot\assets\flags\4x3\cg.svg
+wwwroot\assets\flags\4x3\ch.svg
+wwwroot\assets\flags\4x3\ci.svg
+wwwroot\assets\flags\4x3\ck.svg
+wwwroot\assets\flags\4x3\cl.svg
+wwwroot\assets\flags\4x3\cm.svg
+wwwroot\assets\flags\4x3\cn.svg
+wwwroot\assets\flags\4x3\co.svg
+wwwroot\assets\flags\4x3\cr.svg
+wwwroot\assets\flags\4x3\cu.svg
+wwwroot\assets\flags\4x3\cv.svg
+wwwroot\assets\flags\4x3\cw.svg
+wwwroot\assets\flags\4x3\cx.svg
+wwwroot\assets\flags\4x3\cy.svg
+wwwroot\assets\flags\4x3\cz.svg
+wwwroot\assets\flags\4x3\de.svg
+wwwroot\assets\flags\4x3\dj.svg
+wwwroot\assets\flags\4x3\dk.svg
+wwwroot\assets\flags\4x3\dm.svg
+wwwroot\assets\flags\4x3\do.svg
+wwwroot\assets\flags\4x3\dz.svg
+wwwroot\assets\flags\4x3\ec.svg
+wwwroot\assets\flags\4x3\ee.svg
+wwwroot\assets\flags\4x3\eg.svg
+wwwroot\assets\flags\4x3\eh.svg
+wwwroot\assets\flags\4x3\er.svg
+wwwroot\assets\flags\4x3\es.svg
+wwwroot\assets\flags\4x3\es-ct.svg
+wwwroot\assets\flags\4x3\et.svg
+wwwroot\assets\flags\4x3\eu.svg
+wwwroot\assets\flags\4x3\fi.svg
+wwwroot\assets\flags\4x3\fj.svg
+wwwroot\assets\flags\4x3\fk.svg
+wwwroot\assets\flags\4x3\fm.svg
+wwwroot\assets\flags\4x3\fo.svg
+wwwroot\assets\flags\4x3\fr.svg
+wwwroot\assets\flags\4x3\ga.svg
+wwwroot\assets\flags\4x3\gb.svg
+wwwroot\assets\flags\4x3\gb-eng.svg
+wwwroot\assets\flags\4x3\gb-nir.svg
+wwwroot\assets\flags\4x3\gb-sct.svg
+wwwroot\assets\flags\4x3\gb-wls.svg
+wwwroot\assets\flags\4x3\gd.svg
+wwwroot\assets\flags\4x3\ge.svg
+wwwroot\assets\flags\4x3\gf.svg
+wwwroot\assets\flags\4x3\gg.svg
+wwwroot\assets\flags\4x3\gh.svg
+wwwroot\assets\flags\4x3\gi.svg
+wwwroot\assets\flags\4x3\gl.svg
+wwwroot\assets\flags\4x3\gm.svg
+wwwroot\assets\flags\4x3\gn.svg
+wwwroot\assets\flags\4x3\gp.svg
+wwwroot\assets\flags\4x3\gq.svg
+wwwroot\assets\flags\4x3\gr.svg
+wwwroot\assets\flags\4x3\gs.svg
+wwwroot\assets\flags\4x3\gt.svg
+wwwroot\assets\flags\4x3\gu.svg
+wwwroot\assets\flags\4x3\gw.svg
+wwwroot\assets\flags\4x3\gy.svg
+wwwroot\assets\flags\4x3\hk.svg
+wwwroot\assets\flags\4x3\hm.svg
+wwwroot\assets\flags\4x3\hn.svg
+wwwroot\assets\flags\4x3\hr.svg
+wwwroot\assets\flags\4x3\ht.svg
+wwwroot\assets\flags\4x3\hu.svg
+wwwroot\assets\flags\4x3\id.svg
+wwwroot\assets\flags\4x3\ie.svg
+wwwroot\assets\flags\4x3\il.svg
+wwwroot\assets\flags\4x3\im.svg
+wwwroot\assets\flags\4x3\in.svg
+wwwroot\assets\flags\4x3\io.svg
+wwwroot\assets\flags\4x3\iq.svg
+wwwroot\assets\flags\4x3\ir.svg
+wwwroot\assets\flags\4x3\is.svg
+wwwroot\assets\flags\4x3\it.svg
+wwwroot\assets\flags\4x3\je.svg
+wwwroot\assets\flags\4x3\jm.svg
+wwwroot\assets\flags\4x3\jo.svg
+wwwroot\assets\flags\4x3\jp.svg
+wwwroot\assets\flags\4x3\ke.svg
+wwwroot\assets\flags\4x3\kg.svg
+wwwroot\assets\flags\4x3\kh.svg
+wwwroot\assets\flags\4x3\ki.svg
+wwwroot\assets\flags\4x3\km.svg
+wwwroot\assets\flags\4x3\kn.svg
+wwwroot\assets\flags\4x3\kp.svg
+wwwroot\assets\flags\4x3\kr.svg
+wwwroot\assets\flags\4x3\kw.svg
+wwwroot\assets\flags\4x3\ky.svg
+wwwroot\assets\flags\4x3\kz.svg
+wwwroot\assets\flags\4x3\la.svg
+wwwroot\assets\flags\4x3\lb.svg
+wwwroot\assets\flags\4x3\lc.svg
+wwwroot\assets\flags\4x3\li.svg
+wwwroot\assets\flags\4x3\lk.svg
+wwwroot\assets\flags\4x3\lr.svg
+wwwroot\assets\flags\4x3\ls.svg
+wwwroot\assets\flags\4x3\lt.svg
+wwwroot\assets\flags\4x3\lu.svg
+wwwroot\assets\flags\4x3\lv.svg
+wwwroot\assets\flags\4x3\ly.svg
+wwwroot\assets\flags\4x3\ma.svg
+wwwroot\assets\flags\4x3\mc.svg
+wwwroot\assets\flags\4x3\md.svg
+wwwroot\assets\flags\4x3\me.svg
+wwwroot\assets\flags\4x3\mf.svg
+wwwroot\assets\flags\4x3\mg.svg
+wwwroot\assets\flags\4x3\mh.svg
+wwwroot\assets\flags\4x3\mk.svg
+wwwroot\assets\flags\4x3\ml.svg
+wwwroot\assets\flags\4x3\mm.svg
+wwwroot\assets\flags\4x3\mn.svg
+wwwroot\assets\flags\4x3\mo.svg
+wwwroot\assets\flags\4x3\mp.svg
+wwwroot\assets\flags\4x3\mq.svg
+wwwroot\assets\flags\4x3\mr.svg
+wwwroot\assets\flags\4x3\ms.svg
+wwwroot\assets\flags\4x3\mt.svg
+wwwroot\assets\flags\4x3\mu.svg
+wwwroot\assets\flags\4x3\mv.svg
+wwwroot\assets\flags\4x3\mw.svg
+wwwroot\assets\flags\4x3\mx.svg
+wwwroot\assets\flags\4x3\my.svg
+wwwroot\assets\flags\4x3\mz.svg
+wwwroot\assets\flags\4x3\na.svg
+wwwroot\assets\flags\4x3\nc.svg
+wwwroot\assets\flags\4x3\ne.svg
+wwwroot\assets\flags\4x3\nf.svg
+wwwroot\assets\flags\4x3\ng.svg
+wwwroot\assets\flags\4x3\ni.svg
+wwwroot\assets\flags\4x3\nl.svg
+wwwroot\assets\flags\4x3\no.svg
+wwwroot\assets\flags\4x3\np.svg
+wwwroot\assets\flags\4x3\nr.svg
+wwwroot\assets\flags\4x3\nu.svg
+wwwroot\assets\flags\4x3\nz.svg
+wwwroot\assets\flags\4x3\om.svg
+wwwroot\assets\flags\4x3\pa.svg
+wwwroot\assets\flags\4x3\pe.svg
+wwwroot\assets\flags\4x3\pf.svg
+wwwroot\assets\flags\4x3\pg.svg
+wwwroot\assets\flags\4x3\ph.svg
+wwwroot\assets\flags\4x3\pk.svg
+wwwroot\assets\flags\4x3\pl.svg
+wwwroot\assets\flags\4x3\pm.svg
+wwwroot\assets\flags\4x3\pn.svg
+wwwroot\assets\flags\4x3\pr.svg
+wwwroot\assets\flags\4x3\ps.svg
+wwwroot\assets\flags\4x3\pt.svg
+wwwroot\assets\flags\4x3\pw.svg
+wwwroot\assets\flags\4x3\py.svg
+wwwroot\assets\flags\4x3\qa.svg
+wwwroot\assets\flags\4x3\re.svg
+wwwroot\assets\flags\4x3\ro.svg
+wwwroot\assets\flags\4x3\rs.svg
+wwwroot\assets\flags\4x3\ru.svg
+wwwroot\assets\flags\4x3\rw.svg
+wwwroot\assets\flags\4x3\sa.svg
+wwwroot\assets\flags\4x3\sb.svg
+wwwroot\assets\flags\4x3\sc.svg
+wwwroot\assets\flags\4x3\sd.svg
+wwwroot\assets\flags\4x3\se.svg
+wwwroot\assets\flags\4x3\sg.svg
+wwwroot\assets\flags\4x3\sh.svg
+wwwroot\assets\flags\4x3\si.svg
+wwwroot\assets\flags\4x3\sj.svg
+wwwroot\assets\flags\4x3\sk.svg
+wwwroot\assets\flags\4x3\sl.svg
+wwwroot\assets\flags\4x3\sm.svg
+wwwroot\assets\flags\4x3\sn.svg
+wwwroot\assets\flags\4x3\so.svg
+wwwroot\assets\flags\4x3\sr.svg
+wwwroot\assets\flags\4x3\ss.svg
+wwwroot\assets\flags\4x3\st.svg
+wwwroot\assets\flags\4x3\sv.svg
+wwwroot\assets\flags\4x3\sx.svg
+wwwroot\assets\flags\4x3\sy.svg
+wwwroot\assets\flags\4x3\sz.svg
+wwwroot\assets\flags\4x3\tc.svg
+wwwroot\assets\flags\4x3\td.svg
+wwwroot\assets\flags\4x3\tf.svg
+wwwroot\assets\flags\4x3\tg.svg
+wwwroot\assets\flags\4x3\th.svg
+wwwroot\assets\flags\4x3\tj.svg
+wwwroot\assets\flags\4x3\tk.svg
+wwwroot\assets\flags\4x3\tl.svg
+wwwroot\assets\flags\4x3\tm.svg
+wwwroot\assets\flags\4x3\tn.svg
+wwwroot\assets\flags\4x3\to.svg
+wwwroot\assets\flags\4x3\tr.svg
+wwwroot\assets\flags\4x3\tt.svg
+wwwroot\assets\flags\4x3\tv.svg
+wwwroot\assets\flags\4x3\tw.svg
+wwwroot\assets\flags\4x3\tz.svg
+wwwroot\assets\flags\4x3\ua.svg
+wwwroot\assets\flags\4x3\ug.svg
+wwwroot\assets\flags\4x3\um.svg
+wwwroot\assets\flags\4x3\un.svg
+wwwroot\assets\flags\4x3\us.svg
+wwwroot\assets\flags\4x3\uy.svg
+wwwroot\assets\flags\4x3\uz.svg
+wwwroot\assets\flags\4x3\va.svg
+wwwroot\assets\flags\4x3\vc.svg
+wwwroot\assets\flags\4x3\ve.svg
+wwwroot\assets\flags\4x3\vg.svg
+wwwroot\assets\flags\4x3\vi.svg
+wwwroot\assets\flags\4x3\vn.svg
+wwwroot\assets\flags\4x3\vu.svg
+wwwroot\assets\flags\4x3\wf.svg
+wwwroot\assets\flags\4x3\ws.svg
+wwwroot\assets\flags\4x3\ye.svg
+wwwroot\assets\flags\4x3\yt.svg
+wwwroot\assets\flags\4x3\za.svg
+wwwroot\assets\flags\4x3\zm.svg
+wwwroot\assets\flags\4x3\zw.svg
+wwwroot\assets\fonts\boxicons.eot
+wwwroot\assets\fonts\boxicons.svg
+wwwroot\assets\fonts\boxicons.ttf
+wwwroot\assets\fonts\boxicons.woff
+wwwroot\assets\fonts\boxicons.woff2
+wwwroot\assets\fonts\LineIcons.eot
+wwwroot\assets\fonts\LineIcons.svg
+wwwroot\assets\fonts\LineIcons.ttf
+wwwroot\assets\fonts\LineIcons.woff
+wwwroot\assets\fonts\LineIcons.woff2
+wwwroot\assets\images\avatars\avatar-1.png
+wwwroot\assets\images\avatars\avatar-10.png
+wwwroot\assets\images\avatars\avatar-11.png
+wwwroot\assets\images\avatars\avatar-12.png
+wwwroot\assets\images\avatars\avatar-13.png
+wwwroot\assets\images\avatars\avatar-14.png
+wwwroot\assets\images\avatars\avatar-15.png
+wwwroot\assets\images\avatars\avatar-16.png
+wwwroot\assets\images\avatars\avatar-17.png
+wwwroot\assets\images\avatars\avatar-18.png
+wwwroot\assets\images\avatars\avatar-19.png
+wwwroot\assets\images\avatars\avatar-2.png
+wwwroot\assets\images\avatars\avatar-20.png
+wwwroot\assets\images\avatars\avatar-21.png
+wwwroot\assets\images\avatars\avatar-22.png
+wwwroot\assets\images\avatars\avatar-23.png
+wwwroot\assets\images\avatars\avatar-24.png
+wwwroot\assets\images\avatars\avatar-25.png
+wwwroot\assets\images\avatars\avatar-3.png
+wwwroot\assets\images\avatars\avatar-4.png
+wwwroot\assets\images\avatars\avatar-5.png
+wwwroot\assets\images\avatars\avatar-6.png
+wwwroot\assets\images\avatars\avatar-7.png
+wwwroot\assets\images\avatars\avatar-8.png
+wwwroot\assets\images\avatars\avatar-9.png
+wwwroot\assets\images\avatars\avatar-default-icon.png
+wwwroot\assets\images\brand-logo-2.png
+wwwroot\assets\images\county\01.png
+wwwroot\assets\images\county\02.png
+wwwroot\assets\images\county\03.png
+wwwroot\assets\images\county\04.png
+wwwroot\assets\images\county\05.png
+wwwroot\assets\images\county\06.png
+wwwroot\assets\images\county\07.png
+wwwroot\assets\images\county\08.png
+wwwroot\assets\images\error\404.jpg
+wwwroot\assets\images\error\404-error.png
+wwwroot\assets\images\error\505-error.png
+wwwroot\assets\images\error\auth-img-7.png
+wwwroot\assets\images\error\auth-img-register2.png
+wwwroot\assets\images\error\auth-img-register3.png
+wwwroot\assets\images\error\forgot-password-frent-img.jpg
+wwwroot\assets\images\error\login-img.jpg
+wwwroot\assets\images\favicon-32x32.png
+wwwroot\assets\images\gallery\01.png
+wwwroot\assets\images\gallery\02.png
+wwwroot\assets\images\gallery\03.png
+wwwroot\assets\images\gallery\04.png
+wwwroot\assets\images\gallery\05.png
+wwwroot\assets\images\gallery\06.png
+wwwroot\assets\images\gallery\07.png
+wwwroot\assets\images\gallery\08.png
+wwwroot\assets\images\gallery\09.png
+wwwroot\assets\images\gallery\10.png
+wwwroot\assets\images\gallery\11.png
+wwwroot\assets\images\gallery\12.png
+wwwroot\assets\images\gallery\17.png
+wwwroot\assets\images\gallery\18.png
+wwwroot\assets\images\gallery\19.png
+wwwroot\assets\images\gallery\20.png
+wwwroot\assets\images\gallery\21.png
+wwwroot\assets\images\gallery\22.png
+wwwroot\assets\images\gallery\23.png
+wwwroot\assets\images\gallery\24.png
+wwwroot\assets\images\gallery\25.png
+wwwroot\assets\images\gallery\26.png
+wwwroot\assets\images\gallery\27.png
+wwwroot\assets\images\gallery\28.png
+wwwroot\assets\images\gallery\29.png
+wwwroot\assets\images\gallery\30.png
+wwwroot\assets\images\gallery\31.png
+wwwroot\assets\images\gallery\32.png
+wwwroot\assets\images\gallery\33.png
+wwwroot\assets\images\gallery\34.png
+wwwroot\assets\images\icons\search.svg
+wwwroot\assets\images\logo-icon.png
+wwwroot\assets\images\products\01.png
+wwwroot\assets\images\products\02.png
+wwwroot\assets\images\products\03.png
+wwwroot\assets\images\products\04.png
+wwwroot\assets\images\products\05.png
+wwwroot\assets\images\products\06.png
+wwwroot\assets\images\products\06--.png
+wwwroot\assets\images\products\07.png
+wwwroot\assets\images\products\08.png
+wwwroot\assets\images\products\09.png
+wwwroot\assets\images\products\10.png
+wwwroot\assets\images\products\11.png
+wwwroot\assets\images\products\12.png
+wwwroot\assets\images\products\13.png
+wwwroot\assets\images\products\14.png
+wwwroot\assets\images\products\15.png
+wwwroot\assets\images\products\16.png
+wwwroot\assets\images\products\17.png
+wwwroot\assets\images\products\18.png
+wwwroot\assets\images\products\19.png
+wwwroot\assets\images\products\20.png
+wwwroot\assets\images\products\21.png
+wwwroot\assets\images\products\22.png
+wwwroot\assets\images\products\23.png
+wwwroot\assets\images\thumbnail.png
+wwwroot\assets\js\app.js
+wwwroot\assets\js\app-chat-box.js
+wwwroot\assets\js\app-emailbox.js
+wwwroot\assets\js\app-emailread.js
+wwwroot\assets\js\bootstrap.bundle.min.js
+wwwroot\assets\js\bootstrap.bundle.min.js.map
+wwwroot\assets\js\component-popovers-tooltips.js
+wwwroot\assets\js\data-widgets.js
+wwwroot\assets\js\form-date-time-pickes.js
+wwwroot\assets\js\form-file-upload.js
+wwwroot\assets\js\form-select2.js
+wwwroot\assets\js\icons-feather-icons.js
+wwwroot\assets\js\index.js
+wwwroot\assets\js\index2.js
+wwwroot\assets\js\index3.js
+wwwroot\assets\js\index4.js
+wwwroot\assets\js\jquery.min.js
+wwwroot\assets\js\pace.min.js
+wwwroot\assets\js\table-datatable.js
+wwwroot\assets\js\todo.js
+wwwroot\assets\plugins\apexcharts-bundle\css\apexcharts.css
+wwwroot\assets\plugins\apexcharts-bundle\js\apexcharts.js
+wwwroot\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+wwwroot\assets\plugins\apexcharts-bundle\js\apex-custom.js
+wwwroot\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+wwwroot\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+wwwroot\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+wwwroot\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
+wwwroot\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+wwwroot\assets\plugins\chartjs\js\Chart.extension.js
+wwwroot\assets\plugins\chartjs\js\Chart.min.js
+wwwroot\assets\plugins\chartjs\js\chartjs-custom.js
+wwwroot\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+wwwroot\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+wwwroot\assets\plugins\datatable\js\jquery.dataTables.min.js
+wwwroot\assets\plugins\datetimepicker\css\classic.css
+wwwroot\assets\plugins\datetimepicker\css\classic.date.css
+wwwroot\assets\plugins\datetimepicker\css\classic.time.css
+wwwroot\assets\plugins\datetimepicker\js\legacy.js
+wwwroot\assets\plugins\datetimepicker\js\picker.date.js
+wwwroot\assets\plugins\datetimepicker\js\picker.js
+wwwroot\assets\plugins\datetimepicker\js\picker.time.js
+wwwroot\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+wwwroot\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+wwwroot\assets\plugins\easyPieChart\jquery.easypiechart.js
+wwwroot\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+wwwroot\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+wwwroot\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+wwwroot\assets\plugins\fancy-file-uploader\fancy_microphone.png
+wwwroot\assets\plugins\fancy-file-uploader\fancy_okay.png
+wwwroot\assets\plugins\fancy-file-uploader\fancy_remove.png
+wwwroot\assets\plugins\fancy-file-uploader\fancy_upload.png
+wwwroot\assets\plugins\fancy-file-uploader\fancy_webcam.png
+wwwroot\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+wwwroot\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+wwwroot\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+wwwroot\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+wwwroot\assets\plugins\fullcalendar\css\main.css
+wwwroot\assets\plugins\fullcalendar\css\main.min.css
+wwwroot\assets\plugins\fullcalendar\js\main.js
+wwwroot\assets\plugins\fullcalendar\js\main.min.js
+wwwroot\assets\plugins\gmaps\map-custom-script.js
+wwwroot\assets\plugins\highcharts\css\dark-unica.css
+wwwroot\assets\plugins\highcharts\css\grid-light.css
+wwwroot\assets\plugins\highcharts\css\highcharts.css
+wwwroot\assets\plugins\highcharts\css\highcharts-white.css
+wwwroot\assets\plugins\highcharts\css\sand-signika.css
+wwwroot\assets\plugins\highcharts\js\accessibility.js
+wwwroot\assets\plugins\highcharts\js\accessibility.js.map
+wwwroot\assets\plugins\highcharts\js\cylinder.js
+wwwroot\assets\plugins\highcharts\js\cylinder.js.map
+wwwroot\assets\plugins\highcharts\js\export-data.js
+wwwroot\assets\plugins\highcharts\js\export-data.js.map
+wwwroot\assets\plugins\highcharts\js\exporting.js
+wwwroot\assets\plugins\highcharts\js\exporting.js.map
+wwwroot\assets\plugins\highcharts\js\funnel3d.js
+wwwroot\assets\plugins\highcharts\js\funnel3d.js.map
+wwwroot\assets\plugins\highcharts\js\highcharts.js
+wwwroot\assets\plugins\highcharts\js\highcharts.js.map
+wwwroot\assets\plugins\highcharts\js\highcharts-3d.js
+wwwroot\assets\plugins\highcharts\js\highcharts-3d.js.map
+wwwroot\assets\plugins\highcharts\js\highcharts-custom.script.js
+wwwroot\assets\plugins\highcharts\js\highcharts-more.js
+wwwroot\assets\plugins\highcharts\js\highcharts-more.js.map
+wwwroot\assets\plugins\highcharts\js\solid-gauge.js
+wwwroot\assets\plugins\highcharts\js\solid-gauge.js.map
+wwwroot\assets\plugins\highcharts\js\variable-pie.js
+wwwroot\assets\plugins\highcharts\js\variable-pie.js.map
+wwwroot\assets\plugins\input-tags\css\tagsinput.css
+wwwroot\assets\plugins\input-tags\js\tagsinput.js
+wwwroot\assets\plugins\metismenu\css\metisMenu.min.css
+wwwroot\assets\plugins\metismenu\css\metisMenu.min.css.map
+wwwroot\assets\plugins\metismenu\js\metisMenu.min.js
+wwwroot\assets\plugins\metismenu\js\metisMenu.min.js.map
+wwwroot\assets\plugins\nicescroll\js\jquery.nicescroll.min.js
+wwwroot\assets\plugins\notifications\css\lobibox.css
+wwwroot\assets\plugins\notifications\css\lobibox.min.css
+wwwroot\assets\plugins\notifications\img\1.jpg
+wwwroot\assets\plugins\notifications\img\2.jpg
+wwwroot\assets\plugins\notifications\img\3.jpg
+wwwroot\assets\plugins\notifications\img\4.jpg
+wwwroot\assets\plugins\notifications\img\5.jpg
+wwwroot\assets\plugins\notifications\img\6.jpg
+wwwroot\assets\plugins\notifications\js\lobibox.js
+wwwroot\assets\plugins\notifications\js\lobibox.min.js
+wwwroot\assets\plugins\notifications\js\messageboxes.js
+wwwroot\assets\plugins\notifications\js\messageboxes.min.js
+wwwroot\assets\plugins\notifications\js\notification-custom-script.js
+wwwroot\assets\plugins\notifications\js\notifications.js
+wwwroot\assets\plugins\notifications\js\notifications.min.js
+wwwroot\assets\plugins\notifications\sounds\sound1.ogg
+wwwroot\assets\plugins\notifications\sounds\sound2.ogg
+wwwroot\assets\plugins\notifications\sounds\sound3.ogg
+wwwroot\assets\plugins\notifications\sounds\sound4.ogg
+wwwroot\assets\plugins\notifications\sounds\sound5.ogg
+wwwroot\assets\plugins\notifications\sounds\sound6.ogg
+wwwroot\assets\plugins\peity\jquery.peity.min.js
+wwwroot\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+wwwroot\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+wwwroot\assets\plugins\select2\css\select2.min.css
+wwwroot\assets\plugins\select2\css\select2-bootstrap4.css
+wwwroot\assets\plugins\select2\js\select2.min.js
+wwwroot\assets\plugins\simplebar\css\simplebar.css
+wwwroot\assets\plugins\simplebar\js\simplebar.min.js
+wwwroot\assets\plugins\smooth-scrollbar\smooth-scrollbar.js
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+wwwroot\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+wwwroot\assets\plugins\vectormap\jvectormap.custom.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -434,24 +1595,233 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-wwwroot\Sistema\assets\css\animate.css
-wwwroot\Sistema\assets\css\jquery.mCustomScrollbar.min.css
-wwwroot\Sistema\assets\css\media-queries.css
-wwwroot\Sistema\assets\css\style.css
-wwwroot\Sistema\assets\ico\apple-touch-icon-114-precomposed.png
-wwwroot\Sistema\assets\ico\apple-touch-icon-144-precomposed.png
-wwwroot\Sistema\assets\ico\apple-touch-icon-57-precomposed.png
-wwwroot\Sistema\assets\ico\apple-touch-icon-72-precomposed.png
-wwwroot\Sistema\assets\ico\favicon.png
-wwwroot\Sistema\assets\js\jquery.backstretch.js
-wwwroot\Sistema\assets\js\jquery.backstretch.min.js
-wwwroot\Sistema\assets\js\jquery.mCustomScrollbar.concat.min.js
-wwwroot\Sistema\assets\js\jquery.waypoints.js
-wwwroot\Sistema\assets\js\jquery.waypoints.min.js
-wwwroot\Sistema\assets\js\jquery-3.3.1.min.js
-wwwroot\Sistema\assets\js\jquery-migrate-3.0.0.min.js
-wwwroot\Sistema\assets\js\scripts.js
-wwwroot\Sistema\assets\js\waypoints.js
-wwwroot\Sistema\assets\js\waypoints.min.js
-wwwroot\Sistema\assets\js\wow.js
-wwwroot\Sistema\assets\js\wow.min.js
+wwwroot\Pagina\assets\css\animate.css
+wwwroot\Pagina\assets\css\bootstrap.css
+wwwroot\Pagina\assets\css\color.css
+wwwroot\Pagina\assets\css\color\crimson.css
+wwwroot\Pagina\assets\css\color\orange.css
+wwwroot\Pagina\assets\css\color\pink.css
+wwwroot\Pagina\assets\css\color\theme-color.css
+wwwroot\Pagina\assets\css\color\violet.css
+wwwroot\Pagina\assets\css\elpath.css
+wwwroot\Pagina\assets\css\flaticon.css
+wwwroot\Pagina\assets\css\font-awesome-all.css
+wwwroot\Pagina\assets\css\jquery.fancybox.min.css
+wwwroot\Pagina\assets\css\jquery-ui.css
+wwwroot\Pagina\assets\css\module-css\about.css
+wwwroot\Pagina\assets\css\module-css\appointments.css
+wwwroot\Pagina\assets\css\module-css\banner.css
+wwwroot\Pagina\assets\css\module-css\blog-details.css
+wwwroot\Pagina\assets\css\module-css\chooseus.css
+wwwroot\Pagina\assets\css\module-css\contact.css
+wwwroot\Pagina\assets\css\module-css\cta.css
+wwwroot\Pagina\assets\css\module-css\error.css
+wwwroot\Pagina\assets\css\module-css\faq.css
+wwwroot\Pagina\assets\css\module-css\feature.css
+wwwroot\Pagina\assets\css\module-css\funfact.css
+wwwroot\Pagina\assets\css\module-css\gallery.css
+wwwroot\Pagina\assets\css\module-css\news.css
+wwwroot\Pagina\assets\css\module-css\page-title.css
+wwwroot\Pagina\assets\css\module-css\pricing.css
+wwwroot\Pagina\assets\css\module-css\process.css
+wwwroot\Pagina\assets\css\module-css\service.css
+wwwroot\Pagina\assets\css\module-css\service-details.css
+wwwroot\Pagina\assets\css\module-css\sidebar.css
+wwwroot\Pagina\assets\css\module-css\solutions.css
+wwwroot\Pagina\assets\css\module-css\subscribe.css
+wwwroot\Pagina\assets\css\module-css\team.css
+wwwroot\Pagina\assets\css\module-css\team-details.css
+wwwroot\Pagina\assets\css\module-css\testimonial.css
+wwwroot\Pagina\assets\css\module-css\video.css
+wwwroot\Pagina\assets\css\nice-select.css
+wwwroot\Pagina\assets\css\owl.css
+wwwroot\Pagina\assets\css\responsive.css
+wwwroot\Pagina\assets\css\rtl.css
+wwwroot\Pagina\assets\css\style.css
+wwwroot\Pagina\assets\css\switcher-style.css
+wwwroot\Pagina\assets\css\timePicker.css
+wwwroot\Pagina\assets\fonts\fa-brands-400.eot
+wwwroot\Pagina\assets\fonts\fa-brands-400.ttf
+wwwroot\Pagina\assets\fonts\fa-brands-400.woff
+wwwroot\Pagina\assets\fonts\fa-brands-400.woff2
+wwwroot\Pagina\assets\fonts\fa-light-300.woff
+wwwroot\Pagina\assets\fonts\fa-light-300.woff2
+wwwroot\Pagina\assets\fonts\fa-regular-400.eot
+wwwroot\Pagina\assets\fonts\fa-regular-400.woff
+wwwroot\Pagina\assets\fonts\fa-regular-400.woff2
+wwwroot\Pagina\assets\fonts\fa-solid-900.woff
+wwwroot\Pagina\assets\fonts\fa-solid-900.woff2
+wwwroot\Pagina\assets\fonts\icomoon.eot
+wwwroot\Pagina\assets\fonts\icomoon.svg
+wwwroot\Pagina\assets\fonts\icomoon.ttf
+wwwroot\Pagina\assets\fonts\icomoon.woff
+wwwroot\Pagina\assets\images\background\appointment-bg.jpg
+wwwroot\Pagina\assets\images\background\chooseus-bg.jpg
+wwwroot\Pagina\assets\images\background\chooseus-bg-2.jpg
+wwwroot\Pagina\assets\images\background\cta-bg.jpg
+wwwroot\Pagina\assets\images\background\page-title.jpg
+wwwroot\Pagina\assets\images\background\testimonial-bg.jpg
+wwwroot\Pagina\assets\images\background\video-bg.jpg
+wwwroot\Pagina\assets\images\banner\banner-1.jpg
+wwwroot\Pagina\assets\images\banner\banner-img-1.png
+wwwroot\Pagina\assets\images\banner\banner-img-2.png
+wwwroot\Pagina\assets\images\banner\banner-img-3.png
+wwwroot\Pagina\assets\images\banner\leon.png
+wwwroot\Pagina\assets\images\dientes-leon-icono.png
+wwwroot\Pagina\assets\images\favicon.ico
+wwwroot\Pagina\assets\images\footer-logo.png
+wwwroot\Pagina\assets\images\gallery\gallery-1.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-10.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-11.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-2.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-3.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-4.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-5.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-6.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-7.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-8.jpg
+wwwroot\Pagina\assets\images\gallery\gallery-9.jpg
+wwwroot\Pagina\assets\images\icons\cross-out.png
+wwwroot\Pagina\assets\images\icons\error-1.png
+wwwroot\Pagina\assets\images\icons\icon-1.png
+wwwroot\Pagina\assets\images\icons\icon-2.png
+wwwroot\Pagina\assets\images\icons\map-marker.png
+wwwroot\Pagina\assets\images\icons\signature-1.png
+wwwroot\Pagina\assets\images\icons\ui-icons_222222_256x240.png
+wwwroot\Pagina\assets\images\icons\ui-icons_454545_256x240.png
+wwwroot\Pagina\assets\images\icons\ui-icons_888888_256x240.png
+wwwroot\Pagina\assets\images\logo.png
+wwwroot\Pagina\assets\images\logo-2.png
+wwwroot\Pagina\assets\images\news\comment-1.jpg
+wwwroot\Pagina\assets\images\news\comment-2.jpg
+wwwroot\Pagina\assets\images\news\gallery-1.jpg
+wwwroot\Pagina\assets\images\news\gallery-2.jpg
+wwwroot\Pagina\assets\images\news\gallery-3.jpg
+wwwroot\Pagina\assets\images\news\gallery-4.jpg
+wwwroot\Pagina\assets\images\news\gallery-5.jpg
+wwwroot\Pagina\assets\images\news\gallery-6.jpg
+wwwroot\Pagina\assets\images\news\news-1.jpg
+wwwroot\Pagina\assets\images\news\news-10.jpg
+wwwroot\Pagina\assets\images\news\news-11.jpg
+wwwroot\Pagina\assets\images\news\news-12.jpg
+wwwroot\Pagina\assets\images\news\news-13.jpg
+wwwroot\Pagina\assets\images\news\news-2.jpg
+wwwroot\Pagina\assets\images\news\news-3.jpg
+wwwroot\Pagina\assets\images\news\news-4.jpg
+wwwroot\Pagina\assets\images\news\news-5.jpg
+wwwroot\Pagina\assets\images\news\news-6.jpg
+wwwroot\Pagina\assets\images\news\news-7.jpg
+wwwroot\Pagina\assets\images\news\news-8.jpg
+wwwroot\Pagina\assets\images\news\news-9.jpg
+wwwroot\Pagina\assets\images\news\post-1.jpg
+wwwroot\Pagina\assets\images\news\post-2.jpg
+wwwroot\Pagina\assets\images\news\post-3.jpg
+wwwroot\Pagina\assets\images\resource\about-1.jpg
+wwwroot\Pagina\assets\images\resource\about-1.png
+wwwroot\Pagina\assets\images\resource\about-2.jpg
+wwwroot\Pagina\assets\images\resource\about-3.jpg
+wwwroot\Pagina\assets\images\resource\author-1.jpg
+wwwroot\Pagina\assets\images\resource\contact-1.jpg
+wwwroot\Pagina\assets\images\resource\cta-1.png
+wwwroot\Pagina\assets\images\resource\faq-1.png
+wwwroot\Pagina\assets\images\resource\leon.png
+wwwroot\Pagina\assets\images\resource\process-1.jpg
+wwwroot\Pagina\assets\images\resource\process-2.jpg
+wwwroot\Pagina\assets\images\resource\process-3.jpg
+wwwroot\Pagina\assets\images\resource\skills-1.jpg
+wwwroot\Pagina\assets\images\resource\skills-2.jpg
+wwwroot\Pagina\assets\images\resource\testimonial-1.png
+wwwroot\Pagina\assets\images\resource\testimonial-2.png
+wwwroot\Pagina\assets\images\resource\testimonial-3.png
+wwwroot\Pagina\assets\images\resource\testimonial-4.png
+wwwroot\Pagina\assets\images\resource\testimonial-5.png
+wwwroot\Pagina\assets\images\resource\testimonial-6.png
+wwwroot\Pagina\assets\images\resource\thumb-1.png
+wwwroot\Pagina\assets\images\resource\thumb-2.png
+wwwroot\Pagina\assets\images\resource\thumb-3.png
+wwwroot\Pagina\assets\images\resource\thumb-4.png
+wwwroot\Pagina\assets\images\resource\thumb-5.png
+wwwroot\Pagina\assets\images\resource\thumb-6.png
+wwwroot\Pagina\assets\images\resource\video-1.png
+wwwroot\Pagina\assets\images\resource\video-2.png
+wwwroot\Pagina\assets\images\resource\video-3.png
+wwwroot\Pagina\assets\images\service\service-1.jpg
+wwwroot\Pagina\assets\images\service\service-10.jpg
+wwwroot\Pagina\assets\images\service\service-11.jpg
+wwwroot\Pagina\assets\images\service\service-12.jpg
+wwwroot\Pagina\assets\images\service\service-13.jpg
+wwwroot\Pagina\assets\images\service\service-14.jpg
+wwwroot\Pagina\assets\images\service\service-2.jpg
+wwwroot\Pagina\assets\images\service\service-3.jpg
+wwwroot\Pagina\assets\images\service\service-4.jpg
+wwwroot\Pagina\assets\images\service\service-5.jpg
+wwwroot\Pagina\assets\images\service\service-6.jpg
+wwwroot\Pagina\assets\images\service\service-7.jpg
+wwwroot\Pagina\assets\images\service\service-8.jpg
+wwwroot\Pagina\assets\images\service\service-9.jpg
+wwwroot\Pagina\assets\images\shape\shape-1.png
+wwwroot\Pagina\assets\images\shape\shape-10.png
+wwwroot\Pagina\assets\images\shape\shape-11.png
+wwwroot\Pagina\assets\images\shape\shape-12.png
+wwwroot\Pagina\assets\images\shape\shape-13.png
+wwwroot\Pagina\assets\images\shape\shape-14.png
+wwwroot\Pagina\assets\images\shape\shape-15.png
+wwwroot\Pagina\assets\images\shape\shape-16.png
+wwwroot\Pagina\assets\images\shape\shape-17.png
+wwwroot\Pagina\assets\images\shape\shape-18.png
+wwwroot\Pagina\assets\images\shape\shape-19.png
+wwwroot\Pagina\assets\images\shape\shape-2.png
+wwwroot\Pagina\assets\images\shape\shape-20.png
+wwwroot\Pagina\assets\images\shape\shape-21.png
+wwwroot\Pagina\assets\images\shape\shape-22.png
+wwwroot\Pagina\assets\images\shape\shape-23.png
+wwwroot\Pagina\assets\images\shape\shape-24.png
+wwwroot\Pagina\assets\images\shape\shape-25.png
+wwwroot\Pagina\assets\images\shape\shape-26.png
+wwwroot\Pagina\assets\images\shape\shape-27.png
+wwwroot\Pagina\assets\images\shape\shape-28.png
+wwwroot\Pagina\assets\images\shape\shape-29.png
+wwwroot\Pagina\assets\images\shape\shape-3.png
+wwwroot\Pagina\assets\images\shape\shape-30.png
+wwwroot\Pagina\assets\images\shape\shape-31.png
+wwwroot\Pagina\assets\images\shape\shape-32.png
+wwwroot\Pagina\assets\images\shape\shape-33.png
+wwwroot\Pagina\assets\images\shape\shape-34.png
+wwwroot\Pagina\assets\images\shape\shape-35.png
+wwwroot\Pagina\assets\images\shape\shape-4.png
+wwwroot\Pagina\assets\images\shape\shape-5.png
+wwwroot\Pagina\assets\images\shape\shape-6.png
+wwwroot\Pagina\assets\images\shape\shape-7.png
+wwwroot\Pagina\assets\images\shape\shape-8.png
+wwwroot\Pagina\assets\images\shape\shape-9.png
+wwwroot\Pagina\assets\images\team\team-1.jpg
+wwwroot\Pagina\assets\images\team\team-10.jpg
+wwwroot\Pagina\assets\images\team\team-11.jpg
+wwwroot\Pagina\assets\images\team\team-12.jpg
+wwwroot\Pagina\assets\images\team\team-13.jpg
+wwwroot\Pagina\assets\images\team\team-2.jpg
+wwwroot\Pagina\assets\images\team\team-3.jpg
+wwwroot\Pagina\assets\images\team\team-4.jpg
+wwwroot\Pagina\assets\images\team\team-5.jpg
+wwwroot\Pagina\assets\images\team\team-6.jpg
+wwwroot\Pagina\assets\images\team\team-7.jpg
+wwwroot\Pagina\assets\images\team\team-8.jpg
+wwwroot\Pagina\assets\images\team\team-9.jpg
+wwwroot\Pagina\assets\js\appear.js
+wwwroot\Pagina\assets\js\bootstrap.min.js
+wwwroot\Pagina\assets\js\gmaps.js
+wwwroot\Pagina\assets\js\isotope.js
+wwwroot\Pagina\assets\js\jquery.fancybox.js
+wwwroot\Pagina\assets\js\jquery.js
+wwwroot\Pagina\assets\js\jquery.nice-select.min.js
+wwwroot\Pagina\assets\js\jQuery.style.switcher.min.js
+wwwroot\Pagina\assets\js\jquery-ui.js
+wwwroot\Pagina\assets\js\map-helper.js
+wwwroot\Pagina\assets\js\nav-tool.js
+wwwroot\Pagina\assets\js\owl.js
+wwwroot\Pagina\assets\js\pagenav.js
+wwwroot\Pagina\assets\js\parallax-scroll.js
+wwwroot\Pagina\assets\js\script.js
+wwwroot\Pagina\assets\js\timePicker.js
+wwwroot\Pagina\assets\js\validation.js
+wwwroot\Pagina\assets\js\wow.js
