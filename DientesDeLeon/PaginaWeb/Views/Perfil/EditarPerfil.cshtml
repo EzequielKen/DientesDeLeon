@@ -1,0 +1,53 @@
+﻿@model PerfilViewModel
+@{
+    ViewData["Title"] = "Editar Perfil";
+    Layout = "_LayaoutSistema";
+}
+
+<div class="container-fluid">
+
+    <form as method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="alert alert-dark mb-4">
+            <div class="text-center">
+                <h2>Editar Perfil</h2>
+                <p>Aqui podras editar toda la informacion personal de tu perfil.</p>
+            </div>
+        </div>
+
+        <hr />
+        <div class="alert alert-dark mb-4">
+            <h3>Informacion Personal</h3>
+            <div class="mb-3">
+                <label asp-for="Nombre" class="form-label"></label>
+                <input asp-for="Nombre" class="form-control mb-3" type="text" placeholder="Nombre" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Apellido" class="form-label"></label>
+                <input asp-for="Apellido" class="form-control mb-3" type="text" placeholder="Apellido" />
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+        </div>
+        <button asp-controller="Perfil" asp-action="ActualizarPerfil" type="submit" class="btn btn-primary">Actualizar Perfil</button>
+
+    </form>
+
+    <form as method="post" class="pt-5">
+        <input type="hidden" asp-for="Id" />
+
+        <div class="alert alert-dark mb-4">
+            <h3>Contraseña</h3>
+            <div class="mb-3">
+                <label asp-for="Contraseña" class="form-label"></label>
+                <input name="Contraseña" class="form-control mb-3" type="text" placeholder="Contraseña" autocomplete="new-password" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="RepetirContraseña" class="form-label"></label>
+                <input name="RepetirContraseña" class="form-control mb-3" type="password" placeholder="Repetir Contraseña" autocomplete="new-password" />
+            </div>
+        </div>
+        <button asp-controller="Perfil" asp-action="ActualizarContraseña" type="submit" class="btn btn-primary">Actualizar Contraseña</button>
+
+    </form>
+</div>

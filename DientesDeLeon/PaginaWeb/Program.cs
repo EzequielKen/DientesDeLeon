@@ -1,10 +1,15 @@
+using _02___sistemas._00___Perfil;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.SignalR;
+using PaginaWeb.Models;
+using PaginaWeb.Servicios._00___Perfil;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Servicios
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<PerfilServicio>();
 
 builder.Services
     .AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)

@@ -27,6 +27,7 @@
     <link href="~/assets/css/semi-dark.css" rel="stylesheet" asp-append-version="true" />
     <link href="~/assets/css/header-colors.css" rel="stylesheet" asp-append-version="true" />
 
+
     <title>@ViewData["Title"] - Dientes de Leon</title>
 </head>
 <body>
@@ -391,10 +392,14 @@
                     </a>
                     <ul class="dropdown-menu dropdown-menu-end">
                         <li>
-                            <a class="dropdown-item" href="pages-user-profile.html">
+                            <a class="dropdown-item" asp-controller="Perfil" asp-action="EditarPerfil">
                                 <div class="d-flex align-items-center">
                                     <div class=""><i class="bi bi-person-fill"></i></div>
-                                    <div class="ms-3"><span>Profile</span></div>
+                                    <div class="ms-3">
+                                        <span>
+                                                Perfil
+                                        </span>
+                                    </div>
                                 </div>
                             </a>
                         </li>
@@ -965,8 +970,8 @@
         <script src="~/assets/js/index.js" asp-append-version="true"></script>
     }
 
-    
-    
+
+
 
 </body>
 </html>
