@@ -1,11 +1,16 @@
 using _02___sistemas._00___Perfil;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.SignalR;
-using PaginaWeb.Models;
+using Microsoft.Extensions.FileProviders;
+using PaginaWeb.Options;
 using PaginaWeb.Servicios._00___Perfil;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Options
+builder.Services.Configure<StorageOptions>(builder.Configuration.GetSection("Storage"));
 // Servicios
 builder.Services.AddControllersWithViews();
 
@@ -50,6 +55,19 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
+// ? Servir carpeta externa del disco secundario
+var perfilFotosSection = builder.Configuration.GetSection("Storage").GetSection("PerfilFotos");
+var physicalPath = perfilFotosSection["PhysicalPath"];
+var requestPath = perfilFotosSection["RequestPath"];
+if (!string.IsNullOrWhiteSpace(physicalPath) && !string.IsNullOrWhiteSpace(requestPath))
+{
+    Directory.CreateDirectory(physicalPath);
+    app.UseStaticFiles(new StaticFileOptions
+    {
+        FileProvider = new PhysicalFileProvider(physicalPath),
+        RequestPath = requestPath
+    });
+}
 // Orden correcto: Routing -> (CORS) -> Authentication -> Authorization
 app.UseRouting();
 

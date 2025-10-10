@@ -26,6 +26,18 @@ namespace _02___sistemas._00___Perfil
             await consultas.actualizar_tabla("usuarios", actualizar, id);
 
         }
+        public async Task actualizar_foto_usuario(DataTable perfil, string id)
+        {
+            string actualizar = "`Foto` = '" + perfil.Rows[0]["Foto"].ToString() + "'";
+
+            await consultas.actualizar_tabla("usuarios", actualizar, id);
+        }
+        public async Task actualizar_contraseña_usuario(string Contraseña, string id)
+        {
+            string actualizar = "`Contraseña` = '" + Contraseña + "'";
+
+            await consultas.actualizar_tabla("usuarios", actualizar, id);
+        }
         #endregion
         #region metodos consultas
         private async Task consultar_usuario_id(string id_usuario)

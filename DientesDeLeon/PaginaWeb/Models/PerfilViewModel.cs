@@ -18,6 +18,12 @@ namespace PaginaWeb.Models
         [Display(Name = "Apellido")]
         public string Apellido { get; set; }
 
+        [ValidateNever]
+        public string Foto { get; set; }
+
+        [ValidateNever]
+        public IFormFile FotoArchivo { get; set; }
+
         [Required(ErrorMessage = "El campo {0} es obligatorio.")]
         [StringLength(50, ErrorMessage = "El campo {0} no puede tener más de {1} caracteres.")]
         [Display(Name = "Contraseña")]

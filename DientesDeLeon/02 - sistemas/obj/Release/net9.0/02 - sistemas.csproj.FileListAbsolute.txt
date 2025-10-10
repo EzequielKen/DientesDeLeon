@@ -35,3 +35,40 @@ C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\0
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\refint\02 - sistemas.dll
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.pdb
 C:\Users\eze-k\OneDrive\Escritorio\Dientes De Leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\ref\02 - sistemas.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\LatoFont\OFL.txt
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\02 - sistemas.deps.json
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\02 - sistemas.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\02 - sistemas.pdb
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\00 - acceso a base de datos.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\01 - modulos.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\01 - modulos.pdb
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\bin\Release\net9.0\00 - acceso a base de datos.pdb
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.sourcelink.json
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sis.E5EC0F34.Up2Date
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\refint\02 - sistemas.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\02 - sistemas.pdb
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\02 - sistemas\obj\Release\net9.0\ref\02 - sistemas.dll

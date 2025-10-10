@@ -1819,10 +1819,10 @@ C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\Pagin
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\PaginaWeb.csproj.Up2Date
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\PaginaWeb.dll
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\refint\PaginaWeb.dll
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\PaginaWeb.pdb
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\PaginaWeb.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\ref\PaginaWeb.dll
+C:\Users\Administrator\Desktop\Dientes de leon\DientesDeLeon\DientesDeLeon\PaginaWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

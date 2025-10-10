@@ -3,6 +3,33 @@
     ViewData["Title"] = "Editar Perfil";
     Layout = "_LayaoutSistema";
 }
+@section Scripts {
+    <script>
+     document.getElementById('inputFoto').addEventListener('change', function (e) {
+        const file = e.target.files[0];
+        const img = document.getElementById('previewFoto');
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = ev => img.src = ev.target.result;
+            reader.readAsDataURL(file);
+        }
+    });
+
+    const pass = document.getElementById('Contrasena');
+const repeat = document.getElementById('RepetirContrasena');
+
+function validarCoincidencia() {
+  if (repeat.value && pass.value !== repeat.value) {
+    repeat.setCustomValidity('Las contraseñas no coinciden.');
+  } else {
+    repeat.setCustomValidity('');
+  }
+}
+
+pass.addEventListener('input', validarCoincidencia);
+repeat.addEventListener('input', validarCoincidencia);
+    </script>
+}
 
 <div class="container-fluid">
 
@@ -33,6 +60,29 @@
 
     </form>
 
+    <form asp-controller="Perfil" asp-action="ActualizarFotoPerfil" method="post" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+    <div class="alert alert-dark mb-4">
+
+    <div class="mb-3">
+        <img id="previewFoto"
+             src="@(string.IsNullOrWhiteSpace(Model.Foto) ? "/img/placeholder-user.png" : Model.Foto)"
+             class="img-thumbnail mb-3"
+             style="max-width: 200px; max-height: 200px;"
+             alt="Vista previa" />
+
+        <label asp-for="FotoArchivo" class="form-label">Seleccionar foto</label>
+        <input asp-for="FotoArchivo" type="file" class="form-control" accept="image/*" id="inputFoto" />
+        <span asp-validation-for="FotoArchivo" class="text-danger"></span>
+    </div>
+
+    </div>
+    <!-- el resto de tus campos... -->
+        <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
     <form as method="post" class="pt-5">
         <input type="hidden" asp-for="Id" />
 
@@ -40,11 +90,11 @@
             <h3>Contraseña</h3>
             <div class="mb-3">
                 <label asp-for="Contraseña" class="form-label"></label>
-                <input name="Contraseña" class="form-control mb-3" type="text" placeholder="Contraseña" autocomplete="new-password" />
+                <input id="Contrasena" name="Contraseña" class="form-control mb-3" type="text" placeholder="Contraseña" autocomplete="new-password" />
             </div>
             <div class="mb-3">
                 <label asp-for="RepetirContraseña" class="form-label"></label>
-                <input name="RepetirContraseña" class="form-control mb-3" type="password" placeholder="Repetir Contraseña" autocomplete="new-password" />
+                <input id="RepetirContrasena" name="RepetirContraseña" class="form-control mb-3" type="password" placeholder="Repetir Contraseña" autocomplete="new-password" />
             </div>
         </div>
         <button asp-controller="Perfil" asp-action="ActualizarContraseña" type="submit" class="btn btn-primary">Actualizar Contraseña</button>
